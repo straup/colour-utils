@@ -1,0 +1,117 @@
+{
+  "colours": {
+    "#f5fffa": {
+      "name": "Mint cream", 
+      "mostly": "white"
+    }, 
+    "#fffff0": {
+      "name": "Ivory", 
+      "mostly": "white"
+    }, 
+    "#f3e5ab": {
+      "name": "Vanilla", 
+      "mostly": "white"
+    }, 
+    "#fffdd0": {
+      "name": "Cream", 
+      "mostly": "white"
+    }, 
+    "#f2f3f4": {
+      "name": "Anti-flash white", 
+      "mostly": "white"
+    }, 
+    "#fefdff": {
+      "name": "Splashed white", 
+      "mostly": "white"
+    }, 
+    "#fffaf0": {
+      "name": "Floral white", 
+      "mostly": "white"
+    }, 
+    "#f0fff0": {
+      "name": "Honeydew", 
+      "mostly": "white"
+    }, 
+    "#fffacd": {
+      "name": "Lemon chiffon", 
+      "mostly": "white"
+    }, 
+    "#faf0be": {
+      "name": "Blond", 
+      "mostly": "white"
+    }, 
+    "#f5f5f5": {
+      "name": "White smoke", 
+      "mostly": "white"
+    }, 
+    "#faf0e6": {
+      "name": "Linen", 
+      "mostly": "white"
+    }, 
+    "#faebd7": {
+      "name": "Antique white", 
+      "mostly": "white"
+    }, 
+    "#fff0f5": {
+      "name": "Lavender blush", 
+      "mostly": "white"
+    }, 
+    "#fff5ee": {
+      "name": "Seashell", 
+      "mostly": "white"
+    }, 
+    "#ffdead": {
+      "name": "Navajo white", 
+      "mostly": "white"
+    }, 
+    "#fffafa": {
+      "name": "Snow", 
+      "mostly": "white"
+    }, 
+    "#fff8dc": {
+      "name": "Cornsilk", 
+      "mostly": "white"
+    }, 
+    "#f8f8ff": {
+      "name": "Ghost white", 
+      "mostly": "white"
+    }, 
+    "#fff8e7": {
+      "name": "Cosmic latte", 
+      "mostly": "white"
+    }, 
+    "#fdf5e6": {
+      "name": "Old lace", 
+      "mostly": "white"
+    }, 
+    "#eae0c8": {
+      "name": "Pearl", 
+      "mostly": "white"
+    }, 
+    "#ffffff": {
+      "name": "White", 
+      "mostly": "white"
+    }, 
+    "#f4f0ec": {
+      "name": "Isabelline", 
+      "mostly": "white"
+    }, 
+    "#f5f5dc": {
+      "name": "Beige", 
+      "mostly": "white"
+    }, 
+    "#f8f4ff": {
+      "name": "Magnolia", 
+      "mostly": "white"
+    }, 
+    "#f0ead6": {
+      "name": "Eggshell", 
+      "mostly": "white"
+    }, 
+    "#ffefd5": {
+      "name": "Papaya whip", 
+      "mostly": "white"
+    }
+  }, 
+  "source": "wikipedia"
+}

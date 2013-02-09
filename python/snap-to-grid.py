@@ -67,6 +67,5 @@ if __name__ == '__main__':
     res = snap_to_grid(src, ref)
     im = draw(res)
 
+    im.save('/Users/asc/Desktop/snap.png')
     im.show()
-
-

@@ -1,0 +1,177 @@
+{
+  "colours": {
+    "#fadfad": {
+      "name": "Peach-yellow", 
+      "family": "orange"
+    }, 
+    "#ed9121": {
+      "name": "Carrot orange", 
+      "family": "orange"
+    }, 
+    "#ff7518": {
+      "name": "Pumpkin", 
+      "family": "orange"
+    }, 
+    "#ffa000": {
+      "name": "Orange peel", 
+      "family": "orange"
+    }, 
+    "#cc5500": {
+      "name": "Burnt orange", 
+      "family": "orange"
+    }, 
+    "#e34234": {
+      "name": "Vermilion", 
+      "family": "orange"
+    }, 
+    "#ff8c69": {
+      "name": "Salmon", 
+      "family": "orange"
+    }, 
+    "#ff4500": {
+      "name": "Orange-red", 
+      "family": "orange"
+    }, 
+    "#ffcc99": {
+      "name": "Peach-orange", 
+      "family": "orange"
+    }, 
+    "#ff9966": {
+      "name": "Atomic tangerine", 
+      "family": "orange"
+    }, 
+    "#ff6700": {
+      "name": "Safety orange", 
+      "family": "orange"
+    }, 
+    "#f7e7ce": {
+      "name": "Champagne", 
+      "family": "orange"
+    }, 
+    "#ff7f00": {
+      "name": "Orange", 
+      "family": "orange"
+    }, 
+    "#ef9b0f": {
+      "name": "Gamboge", 
+      "family": "orange"
+    }, 
+    "#ffe5b4": {
+      "name": "Peach", 
+      "family": "orange"
+    }, 
+    "#ff5a36": {
+      "name": "Portland Orange", 
+      "family": "orange"
+    }, 
+    "#f88379": {
+      "name": "Tea rose", 
+      "family": "orange"
+    }, 
+    "#964b00": {
+      "name": "Brown", 
+      "family": "orange"
+    }, 
+    "#b7410e": {
+      "name": "Rust", 
+      "family": "orange"
+    }, 
+    "#fad6a5": {
+      "name": "Sunset", 
+      "family": "orange"
+    }, 
+    "#fbceb1": {
+      "name": "Apricot", 
+      "family": "orange"
+    }, 
+    "#ffbf00": {
+      "name": "Amber", 
+      "family": "orange"
+    }, 
+    "#d99058": {
+      "name": "Persian orange", 
+      "family": "orange"
+    }, 
+    "#ff4f00": {
+      "name": "International orange", 
+      "family": "orange"
+    }, 
+    "#f28500": {
+      "name": "Tangerine", 
+      "family": "orange"
+    }, 
+    "#e9692c": {
+      "name": "Deep carrot orange", 
+      "family": "orange"
+    }, 
+    "#ff8f00": {
+      "name": "Princeton orange", 
+      "family": "orange"
+    }, 
+    "#cba135": {
+      "name": "Satin sheen gold", 
+      "family": "orange"
+    }, 
+    "#e25822": {
+      "name": "Flame", 
+      "family": "orange"
+    }, 
+    "#d4af37": {
+      "name": "Gold (metallic)", 
+      "family": "orange"
+    }, 
+    "#c19a6b": {
+      "name": "Lion", 
+      "family": "orange"
+    }, 
+    "#ffefd5": {
+      "name": "Papaya whip", 
+      "family": "orange"
+    }, 
+    "#e9967a": {
+      "name": "Dark salmon", 
+      "family": "orange"
+    }, 
+    "#cd5700": {
+      "name": "Tenn\u00e9", 
+      "family": "orange"
+    }, 
+    "#ff6347": {
+      "name": "Tomato", 
+      "family": "orange"
+    }, 
+    "#cfb53b": {
+      "name": "Old gold", 
+      "family": "orange"
+    }, 
+    "#ff6f5e": {
+      "name": "Bittersweet", 
+      "family": "orange"
+    }, 
+    "#ff7e00": {
+      "name": "ECE/SAE Amber", 
+      "family": "orange"
+    }, 
+    "#ffa500": {
+      "name": "Orange (web)", 
+      "family": "orange"
+    }, 
+    "#f94d00": {
+      "name": "Tangelo", 
+      "family": "orange"
+    }, 
+    "#ff7f50": {
+      "name": "Coral", 
+      "family": "orange"
+    }, 
+    "#c04000": {
+      "name": "Mahogany", 
+      "family": "orange"
+    }, 
+    "#ffd700": {
+      "name": "Gold", 
+      "family": "orange"
+    }
+  }, 
+  "source": "https://en.wikipedia.org/wiki/Category:Shades_of_orange"
+}

@@ -1,0 +1,117 @@
+{
+  "colours": {
+    "#f5fffa": {
+      "name": "Mint cream", 
+      "family": "white"
+    }, 
+    "#fffff0": {
+      "name": "Ivory", 
+      "family": "white"
+    }, 
+    "#f3e5ab": {
+      "name": "Vanilla", 
+      "family": "white"
+    }, 
+    "#fffdd0": {
+      "name": "Cream", 
+      "family": "white"
+    }, 
+    "#f2f3f4": {
+      "name": "Anti-flash white", 
+      "family": "white"
+    }, 
+    "#fefdff": {
+      "name": "Splashed white", 
+      "family": "white"
+    }, 
+    "#fffaf0": {
+      "name": "Floral white", 
+      "family": "white"
+    }, 
+    "#f0fff0": {
+      "name": "Honeydew", 
+      "family": "white"
+    }, 
+    "#fffacd": {
+      "name": "Lemon chiffon", 
+      "family": "white"
+    }, 
+    "#faf0be": {
+      "name": "Blond", 
+      "family": "white"
+    }, 
+    "#f5f5f5": {
+      "name": "White smoke", 
+      "family": "white"
+    }, 
+    "#faf0e6": {
+      "name": "Linen", 
+      "family": "white"
+    }, 
+    "#faebd7": {
+      "name": "Antique white", 
+      "family": "white"
+    }, 
+    "#fff0f5": {
+      "name": "Lavender blush", 
+      "family": "white"
+    }, 
+    "#fff5ee": {
+      "name": "Seashell", 
+      "family": "white"
+    }, 
+    "#ffdead": {
+      "name": "Navajo white", 
+      "family": "white"
+    }, 
+    "#fffafa": {
+      "name": "Snow", 
+      "family": "white"
+    }, 
+    "#fff8dc": {
+      "name": "Cornsilk", 
+      "family": "white"
+    }, 
+    "#f8f8ff": {
+      "name": "Ghost white", 
+      "family": "white"
+    }, 
+    "#fff8e7": {
+      "name": "Cosmic latte", 
+      "family": "white"
+    }, 
+    "#fdf5e6": {
+      "name": "Old lace", 
+      "family": "white"
+    }, 
+    "#eae0c8": {
+      "name": "Pearl", 
+      "family": "white"
+    }, 
+    "#ffffff": {
+      "name": "White", 
+      "family": "white"
+    }, 
+    "#f4f0ec": {
+      "name": "Isabelline", 
+      "family": "white"
+    }, 
+    "#f5f5dc": {
+      "name": "Beige", 
+      "family": "white"
+    }, 
+    "#f8f4ff": {
+      "name": "Magnolia", 
+      "family": "white"
+    }, 
+    "#f0ead6": {
+      "name": "Eggshell", 
+      "family": "white"
+    }, 
+    "#ffefd5": {
+      "name": "Papaya whip", 
+      "family": "white"
+    }
+  }, 
+  "source": "https://en.wikipedia.org/wiki/Category:Shades_of_white"
+}

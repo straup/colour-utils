@@ -1,0 +1,193 @@
+{
+  "colours": {
+    "#e48400": {
+      "name": "Fulvous", 
+      "family": "brown"
+    }, 
+    "#b87333": {
+      "name": "Copper", 
+      "family": "brown"
+    }, 
+    "#d2b48c": {
+      "name": "Tan", 
+      "family": "brown"
+    }, 
+    "#cb410b": {
+      "name": "Sinopia", 
+      "family": "brown"
+    }, 
+    "#a81c07": {
+      "name": "Rufous", 
+      "family": "brown"
+    }, 
+    "#edc9af": {
+      "name": "Desert sand", 
+      "family": "brown"
+    }, 
+    "#6f4e37": {
+      "name": "Coffee", 
+      "family": "brown"
+    }, 
+    "#483c32": {
+      "name": "Taupe", 
+      "family": "brown"
+    }, 
+    "#b86d29": {
+      "name": "Liver", 
+      "family": "brown"
+    }, 
+    "#e5aa70": {
+      "name": "Fawn", 
+      "family": "brown"
+    }, 
+    "#c19a6b": {
+      "name": "Lion", 
+      "family": "brown"
+    }, 
+    "#cd7f32": {
+      "name": "Bronze", 
+      "family": "brown"
+    }, 
+    "#f0e68c": {
+      "name": "Khaki", 
+      "family": "brown"
+    }, 
+    "#cc7722": {
+      "name": "Ochre", 
+      "family": "brown"
+    }, 
+    "#7b3f00": {
+      "name": "Chocolate", 
+      "family": "brown"
+    }, 
+    "#321414": {
+      "name": "Seal brown", 
+      "family": "brown"
+    }, 
+    "#e1a95f": {
+      "name": "Earth yellow", 
+      "family": "brown"
+    }, 
+    "#f0dc82": {
+      "name": "Buff", 
+      "family": "brown"
+    }, 
+    "#645452": {
+      "name": "Wenge", 
+      "family": "brown"
+    }, 
+    "#b7410e": {
+      "name": "Rust", 
+      "family": "brown"
+    }, 
+    "#635147": {
+      "name": "Umber", 
+      "family": "brown"
+    }, 
+    "#900020": {
+      "name": "Burgundy", 
+      "family": "brown"
+    }, 
+    "#882d17": {
+      "name": "Sienna", 
+      "family": "brown"
+    }, 
+    "#926644": {
+      "name": "Raw umber", 
+      "family": "brown"
+    }, 
+    "#3d2b1f": {
+      "name": "Bistre", 
+      "family": "brown"
+    }, 
+    "#9f8170": {
+      "name": "Beaver", 
+      "family": "brown"
+    }, 
+    "#964b00": {
+      "name": "Brown", 
+      "family": "brown"
+    }, 
+    "#6c541e": {
+      "name": "Field drab", 
+      "family": "brown"
+    }, 
+    "#954535": {
+      "name": "Chestnut", 
+      "family": "brown"
+    }, 
+    "#800000": {
+      "name": "Maroon", 
+      "family": "brown"
+    }, 
+    "#e4d00a": {
+      "name": "Citrine", 
+      "family": "brown"
+    }, 
+    "#f4a460": {
+      "name": "Sandy brown", 
+      "family": "brown"
+    }, 
+    "#c2b280": {
+      "name": "Sand", 
+      "family": "brown"
+    }, 
+    "#8a3324": {
+      "name": "Burnt umber", 
+      "family": "brown"
+    }, 
+    "#f5deb3": {
+      "name": "Wheat", 
+      "family": "brown"
+    }, 
+    "#f4f0ec": {
+      "name": "Isabelline", 
+      "family": "brown"
+    }, 
+    "#ab4e52": {
+      "name": "Redwood", 
+      "family": "brown"
+    }, 
+    "#79443b": {
+      "name": "Bole", 
+      "family": "brown"
+    }, 
+    "#704214": {
+      "name": "Sepia", 
+      "family": "brown"
+    }, 
+    "#e97451": {
+      "name": "Burnt sienna", 
+      "family": "brown"
+    }, 
+    "#f5f5dc": {
+      "name": "Beige", 
+      "family": "brown"
+    }, 
+    "#cd5700": {
+      "name": "Tawny", 
+      "family": "brown"
+    }, 
+    "#80461b": {
+      "name": "Russet", 
+      "family": "brown"
+    }, 
+    "#893f45": {
+      "name": "Cordovan", 
+      "family": "brown"
+    }, 
+    "#a0785a": {
+      "name": "Chamoisee", 
+      "family": "brown"
+    }, 
+    "#c04000": {
+      "name": "Mahogany", 
+      "family": "brown"
+    }, 
+    "#a52a2a": {
+      "name": "Auburn", 
+      "family": "brown"
+    }
+  }, 
+  "source": "https://en.wikipedia.org/wiki/Category:Shades_of_brown"
+}

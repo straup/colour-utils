@@ -1,0 +1,1470 @@
+{
+  "colours": {
+    "#ff7518": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Pumpkin", 
+      "family": "orange"
+    }, 
+    "#b53389": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Fandango", 
+      "family": "pink"
+    }, 
+    "#0000ff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Cyan", 
+      "family": "blue"
+    }, 
+    "#00693e": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Dartmouth green", 
+      "family": "green"
+    }, 
+    "#fffff0": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Ivory", 
+      "family": "white"
+    }, 
+    "#cb410b": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Sinopia", 
+      "family": "brown"
+    }, 
+    "#009900": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Islam green", 
+      "family": "green"
+    }, 
+    "#4682b4": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Steel blue", 
+      "family": "blue"
+    }, 
+    "#7cfc00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Lawn green", 
+      "family": "green"
+    }, 
+    "#6f4e37": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Coffee", 
+      "family": "brown"
+    }, 
+    "#a4dded": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Non-photo blue", 
+      "family": "blue"
+    }, 
+    "#fffaf0": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Floral white", 
+      "family": "white"
+    }, 
+    "#0070ff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Brandeis blue", 
+      "family": "blue"
+    }, 
+    "#177245": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Dark spring green", 
+      "family": "green"
+    }, 
+    "#007ba7": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Cerulean", 
+      "family": "blue"
+    }, 
+    "#7c3030": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Tuscan red", 
+      "family": "red"
+    }, 
+    "#ff69b4": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Hot pink", 
+      "family": "pink"
+    }, 
+    "#6082b6": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Glaucous", 
+      "family": "blue"
+    }, 
+    "#fff5ee": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Seashell", 
+      "family": "white"
+    }, 
+    "#926644": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Raw umber", 
+      "family": "brown"
+    }, 
+    "#f88379": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Tea rose", 
+      "family": "orange"
+    }, 
+    "#645452": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Wenge", 
+      "family": "brown"
+    }, 
+    "#cba135": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Satin sheen gold", 
+      "family": "orange"
+    }, 
+    "#fad6a5": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Sunset", 
+      "family": "orange"
+    }, 
+    "#72a0c1": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Air superiority blue", 
+      "family": "blue"
+    }, 
+    "#91a3b0": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Cadet gray", 
+      "family": "grey"
+    }, 
+    "#7df9ff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Electric blue", 
+      "family": "blue"
+    }, 
+    "#00009c": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Duke blue", 
+      "family": "blue"
+    }, 
+    "#add8e6": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Light blue", 
+      "family": "blue"
+    }, 
+    "#8a3324": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Burnt umber", 
+      "family": "brown"
+    }, 
+    "#fffafa": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Snow", 
+      "family": "white"
+    }, 
+    "#1e90ff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Dodger blue", 
+      "family": "blue"
+    }, 
+    "#e4d96f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Straw", 
+      "family": "yellow"
+    }, 
+    "#964b00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Brown", 
+      "family": "orange"
+    }, 
+    "#6c541e": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Field drab", 
+      "family": "brown"
+    }, 
+    "#0000cd": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Medium blue", 
+      "family": "blue"
+    }, 
+    "#0000b8": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Dark blue", 
+      "family": "blue"
+    }, 
+    "#ff003f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Electric crimson", 
+      "family": "red"
+    }, 
+    "#e9692c": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Deep carrot orange", 
+      "family": "orange"
+    }, 
+    "#800000": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Maroon", 
+      "family": "red"
+    }, 
+    "#fff8e7": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Cosmic latte", 
+      "family": "white"
+    }, 
+    "#6495ed": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Cornflower blue", 
+      "family": "blue"
+    }, 
+    "#4169e1": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Royal blue", 
+      "family": "blue"
+    }, 
+    "#40e0d0": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Turquoise", 
+      "family": "blue"
+    }, 
+    "#ffffff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "White", 
+      "family": "white"
+    }, 
+    "#fada5e": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Stil de grain yellow", 
+      "family": "yellow"
+    }, 
+    "#0073cf": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "True Blue", 
+      "family": "blue"
+    }, 
+    "#f8de7e": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Jasmine", 
+      "family": "yellow"
+    }, 
+    "#f4f0ec": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Isabelline", 
+      "family": "brown"
+    }, 
+    "#fc0fc0": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Shocking pink", 
+      "family": "pink"
+    }, 
+    "#8b0000": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Dark red", 
+      "family": "red"
+    }, 
+    "#adff2f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Green-yellow", 
+      "family": "yellow"
+    }, 
+    "#b0e0e6": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Powder blue", 
+      "family": "blue"
+    }, 
+    "#704214": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Sepia", 
+      "family": "brown"
+    }, 
+    "#ff91a4": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Salmon pink", 
+      "family": "pink"
+    }, 
+    "#80461b": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Russet", 
+      "family": "brown"
+    }, 
+    "#cd5700": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Tenn\u00e9", 
+      "family": "orange"
+    }, 
+    "#ff6347": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Tomato", 
+      "family": "orange"
+    }, 
+    "#cfb53b": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Old gold", 
+      "family": "orange"
+    }, 
+    "#9966cc": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Amethyst", 
+      "family": "violet"
+    }, 
+    "#faca16": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Jonquil", 
+      "family": "yellow"
+    }, 
+    "#b22222": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Fire brick", 
+      "family": "red"
+    }, 
+    "#00ff7f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Spring green", 
+      "family": "green"
+    }, 
+    "#808000": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Olive", 
+      "family": "yellow"
+    }, 
+    "#c04000": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Mahogany", 
+      "family": "orange"
+    }, 
+    "#9f1d35": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Burgundy", 
+      "family": "red"
+    }, 
+    "#ffd700": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Gold", 
+      "family": "yellow"
+    }, 
+    "#de3163": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Cerise", 
+      "family": "red"
+    }, 
+    "#01796f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Pine green", 
+      "family": "green"
+    }, 
+    "#e48400": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Fulvous", 
+      "family": "brown"
+    }, 
+    "#8e4585": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Plum", 
+      "family": "violet"
+    }, 
+    "#ffd800": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "School bus yellow", 
+      "family": "yellow"
+    }, 
+    "#ff00ff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Fuchsia", 
+      "family": "red"
+    }, 
+    "#ffa000": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Orange peel", 
+      "family": "orange"
+    }, 
+    "#536895": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "UCLA Blue", 
+      "family": "blue"
+    }, 
+    "#555555": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Davy's gray", 
+      "family": "grey"
+    }, 
+    "#f3e5ab": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Vanilla", 
+      "family": "yellow"
+    }, 
+    "#2e8b57": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Sea green", 
+      "family": "green"
+    }, 
+    "#ccccff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Periwinkle", 
+      "family": "blue"
+    }, 
+    "#fffdd0": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Cream", 
+      "family": "yellow"
+    }, 
+    "#f2f3f4": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Anti-flash white", 
+      "family": "white"
+    }, 
+    "#ff004f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Folly", 
+      "family": "red"
+    }, 
+    "#008080": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Teal", 
+      "family": "blue"
+    }, 
+    "#ff9966": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Atomic tangerine", 
+      "family": "orange"
+    }, 
+    "#32cd32": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Lime green", 
+      "family": "green"
+    }, 
+    "#000000": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Black", 
+      "family": "grey"
+    }, 
+    "#008000": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Office green", 
+      "family": "green"
+    }, 
+    "#faebd7": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Antique white", 
+      "family": "white"
+    }, 
+    "#c19a6b": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Lion", 
+      "family": "yellow"
+    }, 
+    "#273be2": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Palatinate blue", 
+      "family": "blue"
+    }, 
+    "#fff0f5": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Lavender blush", 
+      "family": "violet"
+    }, 
+    "#1e4d2b": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Cal Poly green", 
+      "family": "green"
+    }, 
+    "#f0ead6": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Eggshell", 
+      "family": "white"
+    }, 
+    "#fbec5d": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Maize", 
+      "family": "yellow"
+    }, 
+    "#cc7722": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Ochre", 
+      "family": "brown"
+    }, 
+    "#c0c0c0": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Silver", 
+      "family": "grey"
+    }, 
+    "#f19cbb": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Amaranth pink", 
+      "family": "pink"
+    }, 
+    "#228b22": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Forest green", 
+      "family": "green"
+    }, 
+    "#7fff00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Chartreuse", 
+      "family": "green"
+    }, 
+    "#9a1a00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Chestnut", 
+      "family": "red"
+    }, 
+    "#b7410e": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Rust", 
+      "family": "red"
+    }, 
+    "#120a8f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Ultramarine", 
+      "family": "blue"
+    }, 
+    "#423732": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Gunmetal", 
+      "family": "grey"
+    }, 
+    "#355e3b": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Hunter green", 
+      "family": "green"
+    }, 
+    "#e52b50": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Amaranth", 
+      "family": "red"
+    }, 
+    "#ffbf00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Amber", 
+      "family": "yellow"
+    }, 
+    "#882d17": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Sienna", 
+      "family": "brown"
+    }, 
+    "#f7e7ce": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Champagne", 
+      "family": "orange"
+    }, 
+    "#3d2b1f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Bistre", 
+      "family": "brown"
+    }, 
+    "#9f8170": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Beaver", 
+      "family": "brown"
+    }, 
+    "#ff66cc": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Rosy pink", 
+      "family": "pink"
+    }, 
+    "#fff8dc": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Cornsilk", 
+      "family": "white"
+    }, 
+    "#f4a460": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Sandy brown", 
+      "family": "brown"
+    }, 
+    "#6b8e23": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Olive drab", 
+      "family": "green"
+    }, 
+    "#ff7e00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "ECE/SAE Amber", 
+      "family": "orange"
+    }, 
+    "#ff8f00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Princeton orange", 
+      "family": "orange"
+    }, 
+    "#5a4fcf": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Iris", 
+      "family": "blue"
+    }, 
+    "#96c8a2": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Eton blue", 
+      "family": "blue"
+    }, 
+    "#ffc40c": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Mikado yellow", 
+      "family": "yellow"
+    }, 
+    "#fdf5e6": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Old lace", 
+      "family": "white"
+    }, 
+    "#e25822": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Flame", 
+      "family": "red"
+    }, 
+    "#a3c1ad": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Cambridge Blue", 
+      "family": "blue"
+    }, 
+    "#b57edc": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Lavender (floral)", 
+      "family": "violet"
+    }, 
+    "#d4af37": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Gold (metallic)", 
+      "family": "yellow"
+    }, 
+    "#c2b280": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Sand", 
+      "family": "brown"
+    }, 
+    "#d8bfd8": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Thistle", 
+      "family": "violet"
+    }, 
+    "#bfff00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Lime", 
+      "family": "yellow"
+    }, 
+    "#eae0c8": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Pearl", 
+      "family": "white"
+    }, 
+    "#ef9b0f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Gamboge", 
+      "family": "orange"
+    }, 
+    "#50c878": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Paris Green", 
+      "family": "green"
+    }, 
+    "#ffefd5": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Papaya whip", 
+      "family": "yellow"
+    }, 
+    "#cc8899": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Puce", 
+      "family": "pink"
+    }, 
+    "#f5f5dc": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Beige", 
+      "family": "yellow"
+    }, 
+    "#f8f4ff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Magnolia", 
+      "family": "white"
+    }, 
+    "#b8860b": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Dark goldenrod", 
+      "family": "yellow"
+    }, 
+    "#e2725b": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Terra cotta", 
+      "family": "red"
+    }, 
+    "#00a693": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Persian green", 
+      "family": "green"
+    }, 
+    "#f5deb3": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Wheat", 
+      "family": "brown"
+    }, 
+    "#ffa500": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Orange (web)", 
+      "family": "orange"
+    }, 
+    "#000f89": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Phthalo blue", 
+      "family": "blue"
+    }, 
+    "#00ff00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Green", 
+      "family": "green"
+    }, 
+    "#ffcbdb": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Pink", 
+      "family": "pink"
+    }, 
+    "#ff4500": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Orange-red", 
+      "family": "orange"
+    }, 
+    "#fbaed2": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Lavender pink", 
+      "family": "pink"
+    }, 
+    "#5d8aa8": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Air Force blue", 
+      "family": "blue"
+    }, 
+    "#003153": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Prussian blue", 
+      "family": "blue"
+    }, 
+    "#ef3038": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Deep carmine", 
+      "family": "pink"
+    }, 
+    "#b87333": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Copper", 
+      "family": "brown"
+    }, 
+    "#635147": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Umber", 
+      "family": "brown"
+    }, 
+    "#007fff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Azure", 
+      "family": "blue"
+    }, 
+    "#417dc1": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Tufts Blue", 
+      "family": "blue"
+    }, 
+    "#9acd32": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Yellow-green", 
+      "family": "green"
+    }, 
+    "#536878": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Payne's gray", 
+      "family": "grey"
+    }, 
+    "#6699cc": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Blue-gray", 
+      "family": "blue"
+    }, 
+    "#fefdff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Splashed white", 
+      "family": "white"
+    }, 
+    "#848482": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Battleship gray", 
+      "family": "grey"
+    }, 
+    "#d2b48c": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Tan", 
+      "family": "brown"
+    }, 
+    "#6f00ff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Electric indigo", 
+      "family": "blue"
+    }, 
+    "#f0fff0": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Honeydew", 
+      "family": "green"
+    }, 
+    "#ff00cc": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Hot magenta", 
+      "family": "pink"
+    }, 
+    "#fffacd": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Lemon chiffon", 
+      "family": "yellow"
+    }, 
+    "#b86d29": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Liver", 
+      "family": "brown"
+    }, 
+    "#df73ff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Heliotrope", 
+      "family": "violet"
+    }, 
+    "#ff7f50": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Coral", 
+      "family": "orange"
+    }, 
+    "#edc9af": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Desert sand", 
+      "family": "brown"
+    }, 
+    "#f5f5f5": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "White smoke", 
+      "family": "white"
+    }, 
+    "#b2ffff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Celeste", 
+      "family": "blue"
+    }, 
+    "#50404d": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Purple taupe", 
+      "family": "grey"
+    }, 
+    "#cd7f32": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Bronze", 
+      "family": "brown"
+    }, 
+    "#8c92ac": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Cool gray", 
+      "family": "grey"
+    }, 
+    "#f0e68c": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Khaki", 
+      "family": "brown"
+    }, 
+    "#8b8589": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Taupe gray", 
+      "family": "grey"
+    }, 
+    "#808080": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Gray", 
+      "family": "grey"
+    }, 
+    "#ffba00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Selective yellow", 
+      "family": "yellow"
+    }, 
+    "#a81c07": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Rufous", 
+      "family": "brown"
+    }, 
+    "#ff2400": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Scarlet", 
+      "family": "red"
+    }, 
+    "#009e60": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Shamrock green", 
+      "family": "green"
+    }, 
+    "#324ab2": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Violet-Blue", 
+      "family": "blue"
+    }, 
+    "#614051": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Eggplant", 
+      "family": "violet"
+    }, 
+    "#74c365": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Mantis", 
+      "family": "green"
+    }, 
+    "#36454f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Charcoal", 
+      "family": "grey"
+    }, 
+    "#3fff00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Harlequin", 
+      "family": "green"
+    }, 
+    "#006600": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Pakistan green", 
+      "family": "green"
+    }, 
+    "#de6fa1": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Thulian pink", 
+      "family": "pink"
+    }, 
+    "#900020": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Burgundy", 
+      "family": "brown"
+    }, 
+    "#e0115f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Ruby", 
+      "family": "red"
+    }, 
+    "#d99058": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Persian orange", 
+      "family": "orange"
+    }, 
+    "#89cff0": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Baby blue", 
+      "family": "blue"
+    }, 
+    "#cc5500": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Burnt orange", 
+      "family": "orange"
+    }, 
+    "#ffa6c9": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Carnation pink", 
+      "family": "pink"
+    }, 
+    "#0f52ba": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Sapphire", 
+      "family": "blue"
+    }, 
+    "#81d8d0": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Tiffany Blue", 
+      "family": "blue"
+    }, 
+    "#1560bd": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Denim", 
+      "family": "blue"
+    }, 
+    "#f0f8ff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Alice blue", 
+      "family": "blue"
+    }, 
+    "#daa520": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Goldenrod", 
+      "family": "yellow"
+    }, 
+    "#674c47": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Medium taupe", 
+      "family": "grey"
+    }, 
+    "#c71585": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Red-violet", 
+      "family": "red"
+    }, 
+    "#ff007f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Rose", 
+      "family": "red"
+    }, 
+    "#8db600": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Apple green", 
+      "family": "green"
+    }, 
+    "#fb607f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Brink pink", 
+      "family": "pink"
+    }, 
+    "#0095b6": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Bondi blue", 
+      "family": "blue"
+    }, 
+    "#0f4d92": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Yale Blue", 
+      "family": "blue"
+    }, 
+    "#ffcc33": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Sunglow", 
+      "family": "yellow"
+    }, 
+    "#722f37": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Wine", 
+      "family": "red"
+    }, 
+    "#e30b5c": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Raspberry", 
+      "family": "red"
+    }, 
+    "#002147": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Oxford Blue", 
+      "family": "blue"
+    }, 
+    "#960018": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Carmine", 
+      "family": "red"
+    }, 
+    "#708090": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Slate gray", 
+      "family": "grey"
+    }, 
+    "#ff1493": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Deep pink", 
+      "family": "pink"
+    }, 
+    "#66ff00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Bright green", 
+      "family": "green"
+    }, 
+    "#e97451": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Burnt sienna", 
+      "family": "brown"
+    }, 
+    "#f400a1": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Hollywood cerise", 
+      "family": "pink"
+    }, 
+    "#e9967a": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Dark salmon", 
+      "family": "orange"
+    }, 
+    "#8f00ff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Violet", 
+      "family": "violet"
+    }, 
+    "#138808": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "India green", 
+      "family": "green"
+    }, 
+    "#a7fc00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Spring bud", 
+      "family": "green"
+    }, 
+    "#ff6f5e": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Bittersweet", 
+      "family": "orange"
+    }, 
+    "#ab4e52": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Redwood", 
+      "family": "red"
+    }, 
+    "#a0785a": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Chamoisee", 
+      "family": "brown"
+    }, 
+    "#1c39bb": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Persian blue", 
+      "family": "blue"
+    }, 
+    "#65000b": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Rosewood", 
+      "family": "red"
+    }, 
+    "#a52a2a": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Auburn", 
+      "family": "red"
+    }, 
+    "#da70d6": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Orchid", 
+      "family": "violet"
+    }, 
+    "#ed9121": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Carrot orange", 
+      "family": "orange"
+    }, 
+    "#e34234": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Vermilion", 
+      "family": "red"
+    }, 
+    "#7ba05b": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Asparagus", 
+      "family": "green"
+    }, 
+    "#b2beb5": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Ash gray", 
+      "family": "grey"
+    }, 
+    "#191970": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Midnight blue", 
+      "family": "blue"
+    }, 
+    "#dc143c": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Crimson", 
+      "family": "red"
+    }, 
+    "#ffff00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Yellow", 
+      "family": "yellow"
+    }, 
+    "#556b2f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Dark olive green", 
+      "family": "green"
+    }, 
+    "#123524": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Phthalo green", 
+      "family": "green"
+    }, 
+    "#f64a8a": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "French rose", 
+      "family": "pink"
+    }, 
+    "#ff8c69": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Salmon", 
+      "family": "orange"
+    }, 
+    "#56a0d3": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Carolina blue", 
+      "family": "blue"
+    }, 
+    "#702963": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Byzantium", 
+      "family": "violet"
+    }, 
+    "#cdb280": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Ecru", 
+      "family": "yellow"
+    }, 
+    "#c3b091": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Khaki", 
+      "family": "yellow"
+    }, 
+    "#1034a6": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Egyptian blue", 
+      "family": "blue"
+    }, 
+    "#ff5a36": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Portland Orange", 
+      "family": "orange"
+    }, 
+    "#ff6700": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Safety orange", 
+      "family": "orange"
+    }, 
+    "#faf0be": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Blond", 
+      "family": "white"
+    }, 
+    "#faf0e6": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Linen", 
+      "family": "white"
+    }, 
+    "#ff4f00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "International orange", 
+      "family": "orange"
+    }, 
+    "#c41e3a": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Cardinal", 
+      "family": "red"
+    }, 
+    "#ffe5b4": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Peach", 
+      "family": "orange"
+    }, 
+    "#f8f8ff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Ghost white", 
+      "family": "white"
+    }, 
+    "#fe28a2": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Persian Rose", 
+      "family": "pink"
+    }, 
+    "#fdfc8f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Light Yellow", 
+      "family": "yellow"
+    }, 
+    "#ff6fff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Ultra pink", 
+      "family": "pink"
+    }, 
+    "#483c32": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Taupe", 
+      "family": "brown"
+    }, 
+    "#0014a8": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Zaffre", 
+      "family": "blue"
+    }, 
+    "#f4c430": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Saffron", 
+      "family": "yellow"
+    }, 
+    "#3eb489": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Mint", 
+      "family": "green"
+    }, 
+    "#e1a95f": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Earth yellow", 
+      "family": "brown"
+    }, 
+    "#f0dc82": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Buff", 
+      "family": "yellow"
+    }, 
+    "#29ab87": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Jungle green", 
+      "family": "green"
+    }, 
+    "#16166b": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Federal blue", 
+      "family": "blue"
+    }, 
+    "#000080": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Navy blue", 
+      "family": "blue"
+    }, 
+    "#ffdead": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Navajo white", 
+      "family": "yellow"
+    }, 
+    "#e5aa70": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Fawn", 
+      "family": "brown"
+    }, 
+    "#e6e6fa": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Lavender (web)", 
+      "family": "violet"
+    }, 
+    "#7b3f00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Chocolate", 
+      "family": "brown"
+    }, 
+    "#800080": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Purple", 
+      "family": "violet"
+    }, 
+    "#893f45": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Cordovan", 
+      "family": "brown"
+    }, 
+    "#f28500": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Tangerine", 
+      "family": "orange"
+    }, 
+    "#954535": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Chestnut", 
+      "family": "brown"
+    }, 
+    "#00bfff": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Deep sky blue", 
+      "family": "blue"
+    }, 
+    "#318ce7": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Bleu de France", 
+      "family": "blue"
+    }, 
+    "#4b0082": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Indigo", 
+      "family": "blue"
+    }, 
+    "#00a550": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Pigment green", 
+      "family": "green"
+    }, 
+    "#e4d00a": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Citrine", 
+      "family": "yellow"
+    }, 
+    "#fbceb1": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Apricot", 
+      "family": "yellow"
+    }, 
+    "#ff0000": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Red", 
+      "family": "red"
+    }, 
+    "#4f7942": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Fern green", 
+      "family": "green"
+    }, 
+    "#f94d00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Tangelo", 
+      "family": "orange"
+    }, 
+    "#e62020": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Lust", 
+      "family": "red"
+    }, 
+    "#6050dc": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Majorelle Blue", 
+      "family": "blue"
+    }, 
+    "#dbd7d2": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Timberwolf", 
+      "family": "grey"
+    }, 
+    "#75b2dd": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Columbia blue", 
+      "family": "blue"
+    }, 
+    "#ff0090": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Magenta", 
+      "family": "red"
+    }, 
+    "#aa98a9": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray", 
+      "name": "Rose quartz", 
+      "family": "grey"
+    }, 
+    "#73c2fb": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Maya blue", 
+      "family": "blue"
+    }, 
+    "#ff7f00": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Orange", 
+      "family": "orange"
+    }, 
+    "#79443b": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Bole", 
+      "family": "brown"
+    }, 
+    "#87ceeb": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Sky blue", 
+      "family": "blue"
+    }, 
+    "#321414": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Seal brown", 
+      "family": "brown"
+    }, 
+    "#002fa7": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "International Klein Blue", 
+      "family": "blue"
+    }, 
+    "#93c572": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Pistachio", 
+      "family": "green"
+    }, 
+    "#fadfad": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Peach-yellow", 
+      "family": "orange"
+    }, 
+    "#f5fffa": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Mint cream", 
+      "family": "green"
+    }, 
+    "#ffcc99": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Peach-orange", 
+      "family": "orange"
+    }, 
+    "#0047ab": {
+      "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white", 
+      "name": "Cobalt blue", 
+      "family": "blue"
+    }
+  }, 
+  "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue;https://en.wikipedia.org/wiki/Category:Shades_of_red;https://en.wikipedia.org/wiki/Category:Shades_of_yellow;https://en.wikipedia.org/wiki/Category:Shades_of_orange;https://en.wikipedia.org/wiki/Category:Shades_of_green;https://en.wikipedia.org/wiki/Category:Shades_of_pink;https://en.wikipedia.org/wiki/Category:Shades_of_brown;https://en.wikipedia.org/wiki/Category:Shades_of_violet;https://en.wikipedia.org/wiki/Category:Shades_of_white;https://en.wikipedia.org/wiki/Category:Shades_of_gray"
+}

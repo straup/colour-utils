@@ -1,0 +1,241 @@
+{
+  "colours": {
+    "#5d8aa8": {
+      "name": "Air Force blue", 
+      "family": "blue"
+    }, 
+    "#008080": {
+      "name": "Teal", 
+      "family": "blue"
+    }, 
+    "#003153": {
+      "name": "Prussian blue", 
+      "family": "blue"
+    }, 
+    "#191970": {
+      "name": "Midnight blue", 
+      "family": "blue"
+    }, 
+    "#536895": {
+      "name": "UCLA Blue", 
+      "family": "blue"
+    }, 
+    "#007fff": {
+      "name": "Azure", 
+      "family": "blue"
+    }, 
+    "#ccccff": {
+      "name": "Periwinkle", 
+      "family": "blue"
+    }, 
+    "#4169e1": {
+      "name": "Royal blue", 
+      "family": "blue"
+    }, 
+    "#4682b4": {
+      "name": "Steel blue", 
+      "family": "blue"
+    }, 
+    "#6699cc": {
+      "name": "Blue-gray", 
+      "family": "blue"
+    }, 
+    "#56a0d3": {
+      "name": "Carolina blue", 
+      "family": "blue"
+    }, 
+    "#a4dded": {
+      "name": "Non-photo blue", 
+      "family": "blue"
+    }, 
+    "#1034a6": {
+      "name": "Egyptian blue", 
+      "family": "blue"
+    }, 
+    "#0000ff": {
+      "name": "Cyan", 
+      "family": "blue"
+    }, 
+    "#0070ff": {
+      "name": "Brandeis blue", 
+      "family": "blue"
+    }, 
+    "#007ba7": {
+      "name": "Cerulean", 
+      "family": "blue"
+    }, 
+    "#b2ffff": {
+      "name": "Celeste", 
+      "family": "blue"
+    }, 
+    "#273be2": {
+      "name": "Palatinate blue", 
+      "family": "blue"
+    }, 
+    "#6f00ff": {
+      "name": "Electric indigo", 
+      "family": "blue"
+    }, 
+    "#0014a8": {
+      "name": "Zaffre", 
+      "family": "blue"
+    }, 
+    "#81d8d0": {
+      "name": "Tiffany Blue", 
+      "family": "blue"
+    }, 
+    "#120a8f": {
+      "name": "Ultramarine", 
+      "family": "blue"
+    }, 
+    "#16166b": {
+      "name": "Federal blue", 
+      "family": "blue"
+    }, 
+    "#417dc1": {
+      "name": "Tufts Blue", 
+      "family": "blue"
+    }, 
+    "#72a0c1": {
+      "name": "Air superiority blue", 
+      "family": "blue"
+    }, 
+    "#5a4fcf": {
+      "name": "Iris", 
+      "family": "blue"
+    }, 
+    "#7df9ff": {
+      "name": "Electric blue", 
+      "family": "blue"
+    }, 
+    "#00009c": {
+      "name": "Duke blue", 
+      "family": "blue"
+    }, 
+    "#324ab2": {
+      "name": "Violet-Blue", 
+      "family": "blue"
+    }, 
+    "#add8e6": {
+      "name": "Light blue", 
+      "family": "blue"
+    }, 
+    "#89cff0": {
+      "name": "Baby blue", 
+      "family": "blue"
+    }, 
+    "#1e90ff": {
+      "name": "Dodger blue", 
+      "family": "blue"
+    }, 
+    "#0f52ba": {
+      "name": "Sapphire", 
+      "family": "blue"
+    }, 
+    "#0000cd": {
+      "name": "Medium blue", 
+      "family": "blue"
+    }, 
+    "#0000b8": {
+      "name": "Dark blue", 
+      "family": "blue"
+    }, 
+    "#a3c1ad": {
+      "name": "Cambridge Blue", 
+      "family": "blue"
+    }, 
+    "#00bfff": {
+      "name": "Deep sky blue", 
+      "family": "blue"
+    }, 
+    "#1560bd": {
+      "name": "Denim", 
+      "family": "blue"
+    }, 
+    "#318ce7": {
+      "name": "Bleu de France", 
+      "family": "blue"
+    }, 
+    "#f0f8ff": {
+      "name": "Alice blue", 
+      "family": "blue"
+    }, 
+    "#96c8a2": {
+      "name": "Eton blue", 
+      "family": "blue"
+    }, 
+    "#6495ed": {
+      "name": "Cornflower blue", 
+      "family": "blue"
+    }, 
+    "#4b0082": {
+      "name": "Indigo", 
+      "family": "blue"
+    }, 
+    "#40e0d0": {
+      "name": "Turquoise", 
+      "family": "blue"
+    }, 
+    "#6082b6": {
+      "name": "Glaucous", 
+      "family": "blue"
+    }, 
+    "#0095b6": {
+      "name": "Bondi blue", 
+      "family": "blue"
+    }, 
+    "#0f4d92": {
+      "name": "Yale Blue", 
+      "family": "blue"
+    }, 
+    "#0073cf": {
+      "name": "True Blue", 
+      "family": "blue"
+    }, 
+    "#002147": {
+      "name": "Oxford Blue", 
+      "family": "blue"
+    }, 
+    "#6050dc": {
+      "name": "Majorelle Blue", 
+      "family": "blue"
+    }, 
+    "#75b2dd": {
+      "name": "Columbia blue", 
+      "family": "blue"
+    }, 
+    "#b0e0e6": {
+      "name": "Powder blue", 
+      "family": "blue"
+    }, 
+    "#1c39bb": {
+      "name": "Persian blue", 
+      "family": "blue"
+    }, 
+    "#87ceeb": {
+      "name": "Sky blue", 
+      "family": "blue"
+    }, 
+    "#002fa7": {
+      "name": "International Klein Blue", 
+      "family": "blue"
+    }, 
+    "#000080": {
+      "name": "Navy blue", 
+      "family": "blue"
+    }, 
+    "#000f89": {
+      "name": "Phthalo blue", 
+      "family": "blue"
+    }, 
+    "#73c2fb": {
+      "name": "Maya blue", 
+      "family": "blue"
+    }, 
+    "#0047ab": {
+      "name": "Cobalt blue", 
+      "family": "blue"
+    }
+  }, 
+  "source": "https://en.wikipedia.org/wiki/Category:Shades_of_blue"
+}

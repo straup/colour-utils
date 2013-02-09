@@ -1,0 +1,77 @@
+{
+  "colours": {
+    "#91a3b0": {
+      "name": "Cadet gray", 
+      "mostly": "grey"
+    }, 
+    "#555555": {
+      "name": "Davy's gray", 
+      "mostly": "grey"
+    }, 
+    "#808080": {
+      "name": "Gray", 
+      "mostly": "grey"
+    }, 
+    "#674c47": {
+      "name": "Medium taupe", 
+      "mostly": "grey"
+    }, 
+    "#dbd7d2": {
+      "name": "Timberwolf", 
+      "mostly": "grey"
+    }, 
+    "#b2beb5": {
+      "name": "Ash gray", 
+      "mostly": "grey"
+    }, 
+    "#8c92ac": {
+      "name": "Cool gray", 
+      "mostly": "grey"
+    }, 
+    "#000000": {
+      "name": "Black", 
+      "mostly": "grey"
+    }, 
+    "#483c32": {
+      "name": "Taupe", 
+      "mostly": "grey"
+    }, 
+    "#c0c0c0": {
+      "name": "Silver", 
+      "mostly": "grey"
+    }, 
+    "#8b8589": {
+      "name": "Taupe gray", 
+      "mostly": "grey"
+    }, 
+    "#536878": {
+      "name": "Payne's gray", 
+      "mostly": "grey"
+    }, 
+    "#848482": {
+      "name": "Battleship gray", 
+      "mostly": "grey"
+    }, 
+    "#50404d": {
+      "name": "Purple taupe", 
+      "mostly": "grey"
+    }, 
+    "#36454f": {
+      "name": "Charcoal", 
+      "mostly": "grey"
+    }, 
+    "#423732": {
+      "name": "Gunmetal", 
+      "mostly": "grey"
+    }, 
+    "#708090": {
+      "name": "Slate gray", 
+      "mostly": "grey"
+    }, 
+    "#aa98a9": {
+      "name": "Rose quartz", 
+      "mostly": "grey"
+    }
+  }, 
+  "source": "wikipedia"
+}

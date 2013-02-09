@@ -10,14 +10,14 @@ import PIL.ImageDraw as ImageDraw
 
 def snap_to_grid(src, ref):
 
-    fh = open(src, 'r')
-    data = json.load(fh)
+    src = colour.palette(src)
+    ref = colour.palette(ref)
 
     utils = colour.utils(ref)
 
     results = {}
 
-    for hex, details in data['colours'].items():
+    for hex, details in src.colours.items():
 
         closest = utils.closest_colour(hex)
         results[hex] = closest

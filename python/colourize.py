@@ -31,7 +31,15 @@ def draw(ref, path):
 
 if __name__ == '__main__':
 
+    import colour
+
     ref = sys.argv[1]
+
+    p = colour.palette(ref)
+    print p.colours
+
+    sys.exit()
+    
     old = sys.argv[2]
     # new = sys.argv[3]
 

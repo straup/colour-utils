@@ -2,112 +2,112 @@
   "colours": {
     "#de3163": {
       "name": "Cerise", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#fbaed2": {
       "name": "Lavender pink", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#ef3038": {
       "name": "Deep carmine", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#cc8899": {
       "name": "Puce", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#ff6fff": {
       "name": "Ultra pink", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#f19cbb": {
       "name": "Amaranth pink", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#f400a1": {
       "name": "Hollywood cerise", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#ff0090": {
       "name": "Magenta", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#f88379": {
       "name": "Coral pink", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#fe28a2": {
       "name": "Persian Rose", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#ff69b4": {
       "name": "Hot pink", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#de6fa1": {
       "name": "Thulian pink", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#e0115f": {
       "name": "Ruby", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#ff66cc": {
       "name": "Rosy pink", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#b53389": {
       "name": "Fandango", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#ff00cc": {
       "name": "Hot magenta", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#ff007f": {
       "name": "Rose", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#fb607f": {
       "name": "Brink pink", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#f64a8a": {
       "name": "French rose", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#fc0fc0": {
       "name": "Shocking pink", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#960018": {
       "name": "Carmine", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#ff1493": {
       "name": "Deep pink", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#ff00ff": {
       "name": "Fuchsia", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#ff91a4": {
       "name": "Salmon pink", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#ffa6c9": {
       "name": "Carnation pink", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#e52b50": {
       "name": "Amaranth", 
-      "mostly": "pink"
+      "family": "pink"
     }, 
     "#ffcbdb": {
       "name": "Pink", 
-      "mostly": "pink"
+      "family": "pink"
     }
   }, 
-  "source": "wikipedia"
+  "source": "https://en.wikipedia.org/wiki/Category:Shades_of_pink"
 }

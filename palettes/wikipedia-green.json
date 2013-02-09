@@ -2,164 +2,164 @@
   "colours": {
     "#f5fffa": {
       "name": "Mint cream", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#01796f": {
       "name": "Pine green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#7cfc00": {
       "name": "Lawn green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#00693e": {
       "name": "Dartmouth green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#556b2f": {
       "name": "Dark olive green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#123524": {
       "name": "Phthalo green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#f0fff0": {
       "name": "Honeydew", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#177245": {
       "name": "Dark spring green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#008000": {
       "name": "Office green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#008080": {
       "name": "Teal", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#1e4d2b": {
       "name": "Cal Poly green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#009e60": {
       "name": "Shamrock green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#228b22": {
       "name": "Forest green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#7fff00": {
       "name": "Chartreuse", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#74c365": {
       "name": "Mantis", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#29ab87": {
       "name": "Jungle green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#3fff00": {
       "name": "Harlequin", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#006600": {
       "name": "Pakistan green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#355e3b": {
       "name": "Hunter green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#a7fc00": {
       "name": "Spring bud", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#32cd32": {
       "name": "Lime green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#bfff00": {
       "name": "Lime", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#4f7942": {
       "name": "Fern green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#009900": {
       "name": "Islam green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#7ba05b": {
       "name": "Asparagus", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#9acd32": {
       "name": "Yellow-green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#00a550": {
       "name": "Pigment green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#8db600": {
       "name": "Apple green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#6b8e23": {
       "name": "Olive drab", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#adff2f": {
       "name": "Green-yellow", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#808000": {
       "name": "Olive", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#50c878": {
       "name": "Paris Green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#66ff00": {
       "name": "Bright green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#2e8b57": {
       "name": "Sea green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#3eb489": {
       "name": "Mint", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#138808": {
       "name": "India green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#00a693": {
       "name": "Persian green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#93c572": {
       "name": "Pistachio", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#00ff7f": {
       "name": "Spring green", 
-      "mostly": "green"
+      "family": "green"
     }, 
     "#00ff00": {
       "name": "Green", 
-      "mostly": "green"
+      "family": "green"
     }
   }, 
-  "source": "wikipedia"
+  "source": "https://en.wikipedia.org/wiki/Category:Shades_of_green"
 }

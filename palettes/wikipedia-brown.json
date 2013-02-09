@@ -2,192 +2,192 @@
   "colours": {
     "#e48400": {
       "name": "Fulvous", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#b87333": {
       "name": "Copper", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#d2b48c": {
       "name": "Tan", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#cb410b": {
       "name": "Sinopia", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#a81c07": {
       "name": "Rufous", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#edc9af": {
       "name": "Desert sand", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#6f4e37": {
       "name": "Coffee", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#483c32": {
       "name": "Taupe", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#b86d29": {
       "name": "Liver", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#e5aa70": {
       "name": "Fawn", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#c19a6b": {
       "name": "Lion", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#cd7f32": {
       "name": "Bronze", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#f0e68c": {
       "name": "Khaki", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#cc7722": {
       "name": "Ochre", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#7b3f00": {
       "name": "Chocolate", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#321414": {
       "name": "Seal brown", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#e1a95f": {
       "name": "Earth yellow", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#f0dc82": {
       "name": "Buff", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#645452": {
       "name": "Wenge", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#b7410e": {
       "name": "Rust", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#635147": {
       "name": "Umber", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#900020": {
       "name": "Burgundy", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#882d17": {
       "name": "Sienna", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#926644": {
       "name": "Raw umber", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#3d2b1f": {
       "name": "Bistre", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#9f8170": {
       "name": "Beaver", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#964b00": {
       "name": "Brown", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#6c541e": {
       "name": "Field drab", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#954535": {
       "name": "Chestnut", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#800000": {
       "name": "Maroon", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#e4d00a": {
       "name": "Citrine", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#f4a460": {
       "name": "Sandy brown", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#c2b280": {
       "name": "Sand", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#8a3324": {
       "name": "Burnt umber", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#f5deb3": {
       "name": "Wheat", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#f4f0ec": {
       "name": "Isabelline", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#ab4e52": {
       "name": "Redwood", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#79443b": {
       "name": "Bole", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#704214": {
       "name": "Sepia", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#e97451": {
       "name": "Burnt sienna", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#f5f5dc": {
       "name": "Beige", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#cd5700": {
       "name": "Tawny", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#80461b": {
       "name": "Russet", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#893f45": {
       "name": "Cordovan", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#a0785a": {
       "name": "Chamoisee", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#c04000": {
       "name": "Mahogany", 
-      "mostly": "brown"
+      "family": "brown"
     }, 
     "#a52a2a": {
       "name": "Auburn", 
-      "mostly": "brown"
+      "family": "brown"
     }
   }, 
-  "source": "wikipedia"
+  "source": "https://en.wikipedia.org/wiki/Category:Shades_of_brown"
 }

@@ -2,76 +2,76 @@
   "colours": {
     "#91a3b0": {
       "name": "Cadet gray", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#555555": {
       "name": "Davy's gray", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#808080": {
       "name": "Gray", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#674c47": {
       "name": "Medium taupe", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#dbd7d2": {
       "name": "Timberwolf", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#b2beb5": {
       "name": "Ash gray", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#8c92ac": {
       "name": "Cool gray", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#000000": {
       "name": "Black", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#483c32": {
       "name": "Taupe", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#c0c0c0": {
       "name": "Silver", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#8b8589": {
       "name": "Taupe gray", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#536878": {
       "name": "Payne's gray", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#848482": {
       "name": "Battleship gray", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#50404d": {
       "name": "Purple taupe", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#36454f": {
       "name": "Charcoal", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#423732": {
       "name": "Gunmetal", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#708090": {
       "name": "Slate gray", 
-      "mostly": "grey"
+      "family": "grey"
     }, 
     "#aa98a9": {
       "name": "Rose quartz", 
-      "mostly": "grey"
+      "family": "grey"
     }
   }, 
-  "source": "wikipedia"
+  "source": "https://en.wikipedia.org/wiki/Category:Shades_of_gray"
 }

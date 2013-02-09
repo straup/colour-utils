@@ -2,124 +2,124 @@
   "colours": {
     "#de3163": {
       "name": "Cerise", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#e34234": {
       "name": "Vermilion", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#dc143c": {
       "name": "Crimson", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#b22222": {
       "name": "Fire brick", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#ff004f": {
       "name": "Folly", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#7c3030": {
       "name": "Tuscan red", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#c41e3a": {
       "name": "Cardinal", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#ff2400": {
       "name": "Scarlet", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#9a1a00": {
       "name": "Chestnut", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#b7410e": {
       "name": "Rust", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#e0115f": {
       "name": "Ruby", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#ff003f": {
       "name": "Electric crimson", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#800000": {
       "name": "Maroon", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#c71585": {
       "name": "Red-violet", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#e25822": {
       "name": "Flame", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#ff007f": {
       "name": "Rose", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#ff0000": {
       "name": "Red", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#e62020": {
       "name": "Lust", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#722f37": {
       "name": "Wine", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#e30b5c": {
       "name": "Raspberry", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#960018": {
       "name": "Carmine", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#8b0000": {
       "name": "Dark red", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#ab4e52": {
       "name": "Redwood", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#ff0090": {
       "name": "Magenta", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#ff00ff": {
       "name": "Fuchsia", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#65000b": {
       "name": "Rosewood", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#e2725b": {
       "name": "Terra cotta", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#e52b50": {
       "name": "Amaranth", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#9f1d35": {
       "name": "Burgundy", 
-      "mostly": "red"
+      "family": "red"
     }, 
     "#a52a2a": {
       "name": "Auburn", 
-      "mostly": "red"
+      "family": "red"
     }
   }, 
-  "source": "wikipedia"
+  "source": "https://en.wikipedia.org/wiki/Category:Shades_of_red"
 }

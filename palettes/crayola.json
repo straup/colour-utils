@@ -1,25 +1,32 @@
 {
   "colours": {
     "#fc89ac": {
-      "name": "Tickle Me Pink"
+      "name": "Tickle Me Pink",
+      "family": "pink"
     }, 
     "#1f75fe": {
-      "name": "Blue"
+      "name": "Blue",
+      "family": "blue"
     }, 
     "#a8e4a0": {
-      "name": "Granny Smith Apple"
+      "name": "Granny Smith Apple",
+      "family": "green"
     }, 
     "#fc74fd": {
-      "name": "Pink Flamingo"
+      "name": "Pink Flamingo",
+      "family": "pink"
     }, 
     "#7366bd": {
-      "name": "Blue Violet"
+      "name": "Blue Violet",
+      "family": "violet"
     }, 
     "#18a7b5": {
-      "name": "Teal Blue"
+      "name": "Teal Blue",
+      "family": "blue"
     }, 
     "#1164b4": {
-      "name": "Green Blue"
+      "name": "Green Blue",
+      "family": "blue"
     }, 
     "#b2ec5d": {
       "name": "Inchworm"

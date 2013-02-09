@@ -2,84 +2,84 @@
   "colours": {
     "#de3163": {
       "name": "Cerise", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#df73ff": {
       "name": "Heliotrope", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#8e4585": {
       "name": "Plum", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#e6e6fa": {
       "name": "Lavender (web)", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#614051": {
       "name": "Eggplant", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#ff0090": {
       "name": "Magenta", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#ff00ff": {
       "name": "Fuchsia", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#b57edc": {
       "name": "Lavender (floral)", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#800080": {
       "name": "Purple", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#d8bfd8": {
       "name": "Thistle", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#8f00ff": {
       "name": "Violet", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#9966cc": {
       "name": "Amethyst", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#324ab2": {
       "name": "Violet-Blue", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#702963": {
       "name": "Byzantium", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#b53389": {
       "name": "Fandango", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#fff0f5": {
       "name": "Lavender blush", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#da70d6": {
       "name": "Orchid", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#ff007f": {
       "name": "Rose", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#6f00ff": {
       "name": "Indigo", 
-      "mostly": "violet"
+      "family": "violet"
     }, 
     "#c71585": {
       "name": "Red-violet", 
-      "mostly": "violet"
+      "family": "violet"
     }
   }, 
-  "source": "wikipedia"
+  "source": "https://en.wikipedia.org/wiki/Category:Shades_of_violet"
 }

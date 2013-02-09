@@ -2,132 +2,132 @@
   "colours": {
     "#ffd800": {
       "name": "School bus yellow", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#ffff00": {
       "name": "Yellow", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#f3e5ab": {
       "name": "Vanilla", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#b8860b": {
       "name": "Dark goldenrod", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#cdb280": {
       "name": "Ecru", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#c3b091": {
       "name": "Khaki", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#ffba00": {
       "name": "Selective yellow", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#fffacd": {
       "name": "Lemon chiffon", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#fbceb1": {
       "name": "Apricot", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#c19a6b": {
       "name": "Lion", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#fdfc8f": {
       "name": "Light Yellow", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#fbec5d": {
       "name": "Maize", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#f4c430": {
       "name": "Saffron", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#f0dc82": {
       "name": "Buff", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#ffdead": {
       "name": "Navajo white", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#ffbf00": {
       "name": "Amber", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#ffcc33": {
       "name": "Sunglow", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#e4d96f": {
       "name": "Straw", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#bfff00": {
       "name": "Lime", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#daa520": {
       "name": "Goldenrod", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#ffc40c": {
       "name": "Mikado yellow", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#e4d00a": {
       "name": "Citrine", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#d4af37": {
       "name": "Gold (metallic)", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#fada5e": {
       "name": "Stil de grain yellow", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#f8de7e": {
       "name": "Jasmine", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#adff2f": {
       "name": "Green-yellow", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#ffefd5": {
       "name": "Papaya whip", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#fffdd0": {
       "name": "Cream", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#f5f5dc": {
       "name": "Beige", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#faca16": {
       "name": "Jonquil", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#808000": {
       "name": "Olive", 
-      "mostly": "yellow"
+      "family": "yellow"
     }, 
     "#ffd700": {
       "name": "Gold", 
-      "mostly": "yellow"
+      "family": "yellow"
     }
   }, 
-  "source": "wikipedia"
+  "source": "https://en.wikipedia.org/wiki/Category:Shades_of_yellow"
 }

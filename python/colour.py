@@ -1,3 +1,4 @@
+import colorsys
 import webcolors
 import json
 import sys
@@ -46,6 +47,34 @@ class palette:
 
         # how exactly...
         # return palette(new)
+
+    def sort_colours(self):
+
+        colours = []
+
+        for hex, ignore in self.colours.items():
+            colours.append(hex)
+
+        colours = map(webcolors.hex_to_rgb, colours)
+
+        def hsl(x):
+            to_float = lambda x : x / 255.0
+            (r, g, b) = map(to_float, x)
+            h, s, l = colorsys.rgb_to_hsv(r,g,b)
+            h = h if 0 < h else 1 # 0 -> 1
+            return l, s, h
+
+        def yqi(x):
+            to_float = lambda x : x / 255.0
+            (r, g, b) = map(to_float, x)
+            y, i, q = colorsys.rgb_to_yiq(r,g,b)
+            y = y if 0 < y else 1 # 0 -> 1
+            return y, q, i
+
+        colours = sorted(colours, key=yqi)
+        colours = map(webcolors.rgb_to_hex, colours)
+
+        return colours
 
     def dump(self, fh=sys.stdout):
 

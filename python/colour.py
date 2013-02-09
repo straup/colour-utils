@@ -1,5 +1,7 @@
 import webcolors
 import json
+import sys
+
 import PIL.Image as Image
 import PIL.ImageDraw as ImageDraw
 
@@ -10,7 +12,6 @@ class palette:
         fh = open(path, 'r')
         data = json.load(fh)
 
-        self.path = path
         self.source = data['source']
         self.colours = data['colours']
 
@@ -22,7 +23,42 @@ class palette:
                 return hex
 
         return None
-        
+
+    def merge(self, palette):
+
+        sources = []
+        colours = {}
+
+        sources.append(self.source)
+
+        if not palette.source in sources:
+            sources.append(palette.source)
+
+        for hex, details in self.colours.items():
+            details['source'] = self.source
+            colours[hex] = details
+
+        for hex, details in palette.colours.items():
+
+            if not colours.get(hex):
+                details['source'] = palette.source
+                colours[hex] = details
+
+        self.source = ';'.join(sources)
+        self.colours = colours
+
+        # how exactly...
+        # return palette(new)
+
+    def dump(self, fh=sys.stdout):
+
+        out = {
+            'source': self.source,
+            'colours': self.colours
+            }
+           
+        json.dump(out, fh, indent=2)
+
 class utils:
 
     def __init__(self, palette):

@@ -8,13 +8,14 @@ import webcolors
 import PIL.Image as Image
 import PIL.ImageDraw as ImageDraw
 
-def draw(ref, path):
+def draw(palette, image):
 
-    utils = colour.utils(ref)
+    palette = colour.palette(palette)
+    utils = colour.utils(palette)
 
     results = {}
 
-    im = Image.open(path)
+    im = Image.open(image)
 
     for y in range(im.size[1]):
         for x in range(im.size[0]):
@@ -33,17 +34,10 @@ if __name__ == '__main__':
 
     import colour
 
-    ref = sys.argv[1]
+    palette = sys.argv[1]
+    image = sys.argv[2]
 
-    p = colour.palette(ref)
-    print p.colours
-
-    sys.exit()
-    
-    old = sys.argv[2]
-    # new = sys.argv[3]
-
-    im = draw(ref, old)
+    im = draw(palette, image)
 
     im.save("test.png")
     im.show()

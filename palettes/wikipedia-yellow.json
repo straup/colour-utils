@@ -1,0 +1,133 @@
+{
+  "colours": {
+    "#ffd800": {
+      "name": "School bus yellow", 
+      "mostly": "yellow"
+    }, 
+    "#ffff00": {
+      "name": "Yellow", 
+      "mostly": "yellow"
+    }, 
+    "#f3e5ab": {
+      "name": "Vanilla", 
+      "mostly": "yellow"
+    }, 
+    "#b8860b": {
+      "name": "Dark goldenrod", 
+      "mostly": "yellow"
+    }, 
+    "#cdb280": {
+      "name": "Ecru", 
+      "mostly": "yellow"
+    }, 
+    "#c3b091": {
+      "name": "Khaki", 
+      "mostly": "yellow"
+    }, 
+    "#ffba00": {
+      "name": "Selective yellow", 
+      "mostly": "yellow"
+    }, 
+    "#fffacd": {
+      "name": "Lemon chiffon", 
+      "mostly": "yellow"
+    }, 
+    "#fbceb1": {
+      "name": "Apricot", 
+      "mostly": "yellow"
+    }, 
+    "#c19a6b": {
+      "name": "Lion", 
+      "mostly": "yellow"
+    }, 
+    "#fdfc8f": {
+      "name": "Light Yellow", 
+      "mostly": "yellow"
+    }, 
+    "#fbec5d": {
+      "name": "Maize", 
+      "mostly": "yellow"
+    }, 
+    "#f4c430": {
+      "name": "Saffron", 
+      "mostly": "yellow"
+    }, 
+    "#f0dc82": {
+      "name": "Buff", 
+      "mostly": "yellow"
+    }, 
+    "#ffdead": {
+      "name": "Navajo white", 
+      "mostly": "yellow"
+    }, 
+    "#ffbf00": {
+      "name": "Amber", 
+      "mostly": "yellow"
+    }, 
+    "#ffcc33": {
+      "name": "Sunglow", 
+      "mostly": "yellow"
+    }, 
+    "#e4d96f": {
+      "name": "Straw", 
+      "mostly": "yellow"
+    }, 
+    "#bfff00": {
+      "name": "Lime", 
+      "mostly": "yellow"
+    }, 
+    "#daa520": {
+      "name": "Goldenrod", 
+      "mostly": "yellow"
+    }, 
+    "#ffc40c": {
+      "name": "Mikado yellow", 
+      "mostly": "yellow"
+    }, 
+    "#e4d00a": {
+      "name": "Citrine", 
+      "mostly": "yellow"
+    }, 
+    "#d4af37": {
+      "name": "Gold (metallic)", 
+      "mostly": "yellow"
+    }, 
+    "#fada5e": {
+      "name": "Stil de grain yellow", 
+      "mostly": "yellow"
+    }, 
+    "#f8de7e": {
+      "name": "Jasmine", 
+      "mostly": "yellow"
+    }, 
+    "#adff2f": {
+      "name": "Green-yellow", 
+      "mostly": "yellow"
+    }, 
+    "#ffefd5": {
+      "name": "Papaya whip", 
+      "mostly": "yellow"
+    }, 
+    "#fffdd0": {
+      "name": "Cream", 
+      "mostly": "yellow"
+    }, 
+    "#f5f5dc": {
+      "name": "Beige", 
+      "mostly": "yellow"
+    }, 
+    "#faca16": {
+      "name": "Jonquil", 
+      "mostly": "yellow"
+    }, 
+    "#808000": {
+      "name": "Olive", 
+      "mostly": "yellow"
+    }, 
+    "#ffd700": {
+      "name": "Gold", 
+      "mostly": "yellow"
+    }
+  }, 
+  "source": "wikipedia"
+}

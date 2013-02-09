@@ -1,0 +1,241 @@
+{
+  "colours": {
+    "#5d8aa8": {
+      "name": "Air Force blue", 
+      "mostly": "blue"
+    }, 
+    "#008080": {
+      "name": "Teal", 
+      "mostly": "blue"
+    }, 
+    "#003153": {
+      "name": "Prussian blue", 
+      "mostly": "blue"
+    }, 
+    "#191970": {
+      "name": "Midnight blue", 
+      "mostly": "blue"
+    }, 
+    "#536895": {
+      "name": "UCLA Blue", 
+      "mostly": "blue"
+    }, 
+    "#007fff": {
+      "name": "Azure", 
+      "mostly": "blue"
+    }, 
+    "#ccccff": {
+      "name": "Periwinkle", 
+      "mostly": "blue"
+    }, 
+    "#4169e1": {
+      "name": "Royal blue", 
+      "mostly": "blue"
+    }, 
+    "#4682b4": {
+      "name": "Steel blue", 
+      "mostly": "blue"
+    }, 
+    "#6699cc": {
+      "name": "Blue-gray", 
+      "mostly": "blue"
+    }, 
+    "#56a0d3": {
+      "name": "Carolina blue", 
+      "mostly": "blue"
+    }, 
+    "#a4dded": {
+      "name": "Non-photo blue", 
+      "mostly": "blue"
+    }, 
+    "#1034a6": {
+      "name": "Egyptian blue", 
+      "mostly": "blue"
+    }, 
+    "#0000ff": {
+      "name": "Cyan", 
+      "mostly": "blue"
+    }, 
+    "#0070ff": {
+      "name": "Brandeis blue", 
+      "mostly": "blue"
+    }, 
+    "#007ba7": {
+      "name": "Cerulean", 
+      "mostly": "blue"
+    }, 
+    "#b2ffff": {
+      "name": "Celeste", 
+      "mostly": "blue"
+    }, 
+    "#273be2": {
+      "name": "Palatinate blue", 
+      "mostly": "blue"
+    }, 
+    "#6f00ff": {
+      "name": "Electric indigo", 
+      "mostly": "blue"
+    }, 
+    "#0014a8": {
+      "name": "Zaffre", 
+      "mostly": "blue"
+    }, 
+    "#81d8d0": {
+      "name": "Tiffany Blue", 
+      "mostly": "blue"
+    }, 
+    "#120a8f": {
+      "name": "Ultramarine", 
+      "mostly": "blue"
+    }, 
+    "#16166b": {
+      "name": "Federal blue", 
+      "mostly": "blue"
+    }, 
+    "#417dc1": {
+      "name": "Tufts Blue", 
+      "mostly": "blue"
+    }, 
+    "#72a0c1": {
+      "name": "Air superiority blue", 
+      "mostly": "blue"
+    }, 
+    "#5a4fcf": {
+      "name": "Iris", 
+      "mostly": "blue"
+    }, 
+    "#7df9ff": {
+      "name": "Electric blue", 
+      "mostly": "blue"
+    }, 
+    "#00009c": {
+      "name": "Duke blue", 
+      "mostly": "blue"
+    }, 
+    "#324ab2": {
+      "name": "Violet-Blue", 
+      "mostly": "blue"
+    }, 
+    "#add8e6": {
+      "name": "Light blue", 
+      "mostly": "blue"
+    }, 
+    "#89cff0": {
+      "name": "Baby blue", 
+      "mostly": "blue"
+    }, 
+    "#1e90ff": {
+      "name": "Dodger blue", 
+      "mostly": "blue"
+    }, 
+    "#0f52ba": {
+      "name": "Sapphire", 
+      "mostly": "blue"
+    }, 
+    "#0000cd": {
+      "name": "Medium blue", 
+      "mostly": "blue"
+    }, 
+    "#0000b8": {
+      "name": "Dark blue", 
+      "mostly": "blue"
+    }, 
+    "#a3c1ad": {
+      "name": "Cambridge Blue", 
+      "mostly": "blue"
+    }, 
+    "#00bfff": {
+      "name": "Deep sky blue", 
+      "mostly": "blue"
+    }, 
+    "#1560bd": {
+      "name": "Denim", 
+      "mostly": "blue"
+    }, 
+    "#318ce7": {
+      "name": "Bleu de France", 
+      "mostly": "blue"
+    }, 
+    "#f0f8ff": {
+      "name": "Alice blue", 
+      "mostly": "blue"
+    }, 
+    "#96c8a2": {
+      "name": "Eton blue", 
+      "mostly": "blue"
+    }, 
+    "#6495ed": {
+      "name": "Cornflower blue", 
+      "mostly": "blue"
+    }, 
+    "#4b0082": {
+      "name": "Indigo", 
+      "mostly": "blue"
+    }, 
+    "#40e0d0": {
+      "name": "Turquoise", 
+      "mostly": "blue"
+    }, 
+    "#6082b6": {
+      "name": "Glaucous", 
+      "mostly": "blue"
+    }, 
+    "#0095b6": {
+      "name": "Bondi blue", 
+      "mostly": "blue"
+    }, 
+    "#0f4d92": {
+      "name": "Yale Blue", 
+      "mostly": "blue"
+    }, 
+    "#0073cf": {
+      "name": "True Blue", 
+      "mostly": "blue"
+    }, 
+    "#002147": {
+      "name": "Oxford Blue", 
+      "mostly": "blue"
+    }, 
+    "#6050dc": {
+      "name": "Majorelle Blue", 
+      "mostly": "blue"
+    }, 
+    "#75b2dd": {
+      "name": "Columbia blue", 
+      "mostly": "blue"
+    }, 
+    "#b0e0e6": {
+      "name": "Powder blue", 
+      "mostly": "blue"
+    }, 
+    "#1c39bb": {
+      "name": "Persian blue", 
+      "mostly": "blue"
+    }, 
+    "#87ceeb": {
+      "name": "Sky blue", 
+      "mostly": "blue"
+    }, 
+    "#002fa7": {
+      "name": "International Klein Blue", 
+      "mostly": "blue"
+    }, 
+    "#000080": {
+      "name": "Navy blue", 
+      "mostly": "blue"
+    }, 
+    "#000f89": {
+      "name": "Phthalo blue", 
+      "mostly": "blue"
+    }, 
+    "#73c2fb": {
+      "name": "Maya blue", 
+      "mostly": "blue"
+    }, 
+    "#0047ab": {
+      "name": "Cobalt blue", 
+      "mostly": "blue"
+    }
+  }, 
+  "source": "wikipedia"
+}

@@ -1,0 +1,113 @@
+{
+  "colours": {
+    "#de3163": {
+      "name": "Cerise", 
+      "mostly": "pink"
+    }, 
+    "#fbaed2": {
+      "name": "Lavender pink", 
+      "mostly": "pink"
+    }, 
+    "#ef3038": {
+      "name": "Deep carmine", 
+      "mostly": "pink"
+    }, 
+    "#cc8899": {
+      "name": "Puce", 
+      "mostly": "pink"
+    }, 
+    "#ff6fff": {
+      "name": "Ultra pink", 
+      "mostly": "pink"
+    }, 
+    "#f19cbb": {
+      "name": "Amaranth pink", 
+      "mostly": "pink"
+    }, 
+    "#f400a1": {
+      "name": "Hollywood cerise", 
+      "mostly": "pink"
+    }, 
+    "#ff0090": {
+      "name": "Magenta", 
+      "mostly": "pink"
+    }, 
+    "#f88379": {
+      "name": "Coral pink", 
+      "mostly": "pink"
+    }, 
+    "#fe28a2": {
+      "name": "Persian Rose", 
+      "mostly": "pink"
+    }, 
+    "#ff69b4": {
+      "name": "Hot pink", 
+      "mostly": "pink"
+    }, 
+    "#de6fa1": {
+      "name": "Thulian pink", 
+      "mostly": "pink"
+    }, 
+    "#e0115f": {
+      "name": "Ruby", 
+      "mostly": "pink"
+    }, 
+    "#ff66cc": {
+      "name": "Rosy pink", 
+      "mostly": "pink"
+    }, 
+    "#b53389": {
+      "name": "Fandango", 
+      "mostly": "pink"
+    }, 
+    "#ff00cc": {
+      "name": "Hot magenta", 
+      "mostly": "pink"
+    }, 
+    "#ff007f": {
+      "name": "Rose", 
+      "mostly": "pink"
+    }, 
+    "#fb607f": {
+      "name": "Brink pink", 
+      "mostly": "pink"
+    }, 
+    "#f64a8a": {
+      "name": "French rose", 
+      "mostly": "pink"
+    }, 
+    "#fc0fc0": {
+      "name": "Shocking pink", 
+      "mostly": "pink"
+    }, 
+    "#960018": {
+      "name": "Carmine", 
+      "mostly": "pink"
+    }, 
+    "#ff1493": {
+      "name": "Deep pink", 
+      "mostly": "pink"
+    }, 
+    "#ff00ff": {
+      "name": "Fuchsia", 
+      "mostly": "pink"
+    }, 
+    "#ff91a4": {
+      "name": "Salmon pink", 
+      "mostly": "pink"
+    }, 
+    "#ffa6c9": {
+      "name": "Carnation pink", 
+      "mostly": "pink"
+    }, 
+    "#e52b50": {
+      "name": "Amaranth", 
+      "mostly": "pink"
+    }, 
+    "#ffcbdb": {
+      "name": "Pink", 
+      "mostly": "pink"
+    }
+  }, 
+  "source": "wikipedia"
+}

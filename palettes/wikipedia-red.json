@@ -1,0 +1,125 @@
+{
+  "colours": {
+    "#de3163": {
+      "name": "Cerise", 
+      "mostly": "red"
+    }, 
+    "#e34234": {
+      "name": "Vermilion", 
+      "mostly": "red"
+    }, 
+    "#dc143c": {
+      "name": "Crimson", 
+      "mostly": "red"
+    }, 
+    "#b22222": {
+      "name": "Fire brick", 
+      "mostly": "red"
+    }, 
+    "#ff004f": {
+      "name": "Folly", 
+      "mostly": "red"
+    }, 
+    "#7c3030": {
+      "name": "Tuscan red", 
+      "mostly": "red"
+    }, 
+    "#c41e3a": {
+      "name": "Cardinal", 
+      "mostly": "red"
+    }, 
+    "#ff2400": {
+      "name": "Scarlet", 
+      "mostly": "red"
+    }, 
+    "#9a1a00": {
+      "name": "Chestnut", 
+      "mostly": "red"
+    }, 
+    "#b7410e": {
+      "name": "Rust", 
+      "mostly": "red"
+    }, 
+    "#e0115f": {
+      "name": "Ruby", 
+      "mostly": "red"
+    }, 
+    "#ff003f": {
+      "name": "Electric crimson", 
+      "mostly": "red"
+    }, 
+    "#800000": {
+      "name": "Maroon", 
+      "mostly": "red"
+    }, 
+    "#c71585": {
+      "name": "Red-violet", 
+      "mostly": "red"
+    }, 
+    "#e25822": {
+      "name": "Flame", 
+      "mostly": "red"
+    }, 
+    "#ff007f": {
+      "name": "Rose", 
+      "mostly": "red"
+    }, 
+    "#ff0000": {
+      "name": "Red", 
+      "mostly": "red"
+    }, 
+    "#e62020": {
+      "name": "Lust", 
+      "mostly": "red"
+    }, 
+    "#722f37": {
+      "name": "Wine", 
+      "mostly": "red"
+    }, 
+    "#e30b5c": {
+      "name": "Raspberry", 
+      "mostly": "red"
+    }, 
+    "#960018": {
+      "name": "Carmine", 
+      "mostly": "red"
+    }, 
+    "#8b0000": {
+      "name": "Dark red", 
+      "mostly": "red"
+    }, 
+    "#ab4e52": {
+      "name": "Redwood", 
+      "mostly": "red"
+    }, 
+    "#ff0090": {
+      "name": "Magenta", 
+      "mostly": "red"
+    }, 
+    "#ff00ff": {
+      "name": "Fuchsia", 
+      "mostly": "red"
+    }, 
+    "#65000b": {
+      "name": "Rosewood", 
+      "mostly": "red"
+    }, 
+    "#e2725b": {
+      "name": "Terra cotta", 
+      "mostly": "red"
+    }, 
+    "#e52b50": {
+      "name": "Amaranth", 
+      "mostly": "red"
+    }, 
+    "#9f1d35": {
+      "name": "Burgundy", 
+      "mostly": "red"
+    }, 
+    "#a52a2a": {
+      "name": "Auburn", 
+      "mostly": "red"
+    }
+  }, 
+  "source": "wikipedia"
+}

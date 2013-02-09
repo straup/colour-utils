@@ -1,14 +1,9 @@
 {
   "colours": {
-    "#fbaed2": {
+    "#ff7518": {
       "source": "wikipedia", 
-      "name": "Lavender pink", 
-      "mostly": "pink"
-    }, 
-    "#7cfc00": {
-      "source": "wikipedia", 
-      "name": "Lawn green", 
-      "mostly": "green"
+      "name": "Pumpkin", 
+      "mostly": "orange"
     }, 
     "#b53389": {
       "source": "wikipedia", 
@@ -20,6 +15,16 @@
       "name": "Dartmouth green", 
       "mostly": "green"
     }, 
+    "#fffff0": {
+      "source": "wikipedia", 
+      "name": "Ivory", 
+      "mostly": "white"
+    }, 
+    "#cb410b": {
+      "source": "wikipedia", 
+      "name": "Sinopia", 
+      "mostly": "brown"
+    }, 
     "#009900": {
       "source": "wikipedia", 
       "name": "Islam green", 
@@ -30,20 +35,25 @@
       "name": "Steel blue", 
       "mostly": "blue"
     }, 
-    "#ff7518": {
+    "#7cfc00": {
       "source": "wikipedia", 
-      "name": "Pumpkin", 
-      "mostly": "orange"
+      "name": "Lawn green", 
+      "mostly": "green"
     }, 
-    "#ff4500": {
+    "#6f4e37": {
       "source": "wikipedia", 
-      "name": "Orange-red", 
-      "mostly": "orange"
+      "name": "Coffee", 
+      "mostly": "brown"
     }, 
     "#a4dded": {
       "source": "wikipedia", 
       "name": "Non-photo blue", 
       "mostly": "blue"
+    }, 
+    "#fffaf0": {
+      "source": "wikipedia", 
+      "name": "Floral white", 
+      "mostly": "white"
     }, 
     "#0070ff": {
       "source": "wikipedia", 
@@ -80,10 +90,30 @@
       "name": "Air Force blue", 
       "mostly": "blue"
     }, 
-    "#ffefd5": {
+    "#fff5ee": {
       "source": "wikipedia", 
-      "name": "Papaya whip", 
-      "mostly": "yellow"
+      "name": "Seashell", 
+      "mostly": "white"
+    }, 
+    "#926644": {
+      "source": "wikipedia", 
+      "name": "Raw umber", 
+      "mostly": "brown"
+    }, 
+    "#f88379": {
+      "source": "wikipedia", 
+      "name": "Tea rose", 
+      "mostly": "orange"
+    }, 
+    "#f5f5f5": {
+      "source": "wikipedia", 
+      "name": "White smoke", 
+      "mostly": "white"
+    }, 
+    "#645452": {
+      "source": "wikipedia", 
+      "name": "Wenge", 
+      "mostly": "brown"
     }, 
     "#cba135": {
       "source": "wikipedia", 
@@ -115,6 +145,16 @@
       "name": "Light blue", 
       "mostly": "blue"
     }, 
+    "#8a3324": {
+      "source": "wikipedia", 
+      "name": "Burnt umber", 
+      "mostly": "brown"
+    }, 
+    "#fffafa": {
+      "source": "wikipedia", 
+      "name": "Snow", 
+      "mostly": "white"
+    }, 
     "#1e90ff": {
       "source": "wikipedia", 
       "name": "Dodger blue", 
@@ -129,6 +169,11 @@
       "source": "wikipedia", 
       "name": "Brown", 
       "mostly": "orange"
+    }, 
+    "#6c541e": {
+      "source": "wikipedia", 
+      "name": "Field drab", 
+      "mostly": "brown"
     }, 
     "#0000cd": {
       "source": "wikipedia", 
@@ -155,6 +200,11 @@
       "name": "Maroon", 
       "mostly": "red"
     }, 
+    "#fff8e7": {
+      "source": "wikipedia", 
+      "name": "Cosmic latte", 
+      "mostly": "white"
+    }, 
     "#6495ed": {
       "source": "wikipedia", 
       "name": "Cornflower blue", 
@@ -170,6 +220,11 @@
       "name": "Turquoise", 
       "mostly": "blue"
     }, 
+    "#ffffff": {
+      "source": "wikipedia", 
+      "name": "White", 
+      "mostly": "white"
+    }, 
     "#fada5e": {
       "source": "wikipedia", 
       "name": "Stil de grain yellow", 
@@ -184,6 +239,11 @@
       "source": "wikipedia", 
       "name": "Jasmine", 
       "mostly": "yellow"
+    }, 
+    "#f4f0ec": {
+      "source": "wikipedia", 
+      "name": "Isabelline", 
+      "mostly": "brown"
     }, 
     "#fc0fc0": {
       "source": "wikipedia", 
@@ -205,15 +265,20 @@
       "name": "Powder blue", 
       "mostly": "blue"
     }, 
-    "#ff00ff": {
+    "#704214": {
       "source": "wikipedia", 
-      "name": "Fuchsia", 
-      "mostly": "red"
+      "name": "Sepia", 
+      "mostly": "brown"
     }, 
-    "#b8860b": {
+    "#ff91a4": {
       "source": "wikipedia", 
-      "name": "Dark goldenrod", 
-      "mostly": "yellow"
+      "name": "Salmon pink", 
+      "mostly": "pink"
+    }, 
+    "#80461b": {
+      "source": "wikipedia", 
+      "name": "Russet", 
+      "mostly": "brown"
     }, 
     "#cd5700": {
       "source": "wikipedia", 
@@ -265,20 +330,35 @@
       "name": "Gold", 
       "mostly": "yellow"
     }, 
-    "#f5fffa": {
+    "#de3163": {
       "source": "wikipedia", 
-      "name": "Mint cream", 
-      "mostly": "green"
+      "name": "Cerise", 
+      "mostly": "red"
     }, 
     "#01796f": {
       "source": "wikipedia", 
       "name": "Pine green", 
       "mostly": "green"
     }, 
+    "#e48400": {
+      "source": "wikipedia", 
+      "name": "Fulvous", 
+      "mostly": "brown"
+    }, 
     "#ffd800": {
       "source": "wikipedia", 
       "name": "School bus yellow", 
       "mostly": "yellow"
+    }, 
+    "#ff00ff": {
+      "source": "wikipedia", 
+      "name": "Fuchsia", 
+      "mostly": "red"
+    }, 
+    "#ffa000": {
+      "source": "wikipedia", 
+      "name": "Orange peel", 
+      "mostly": "orange"
     }, 
     "#536895": {
       "source": "wikipedia", 
@@ -290,10 +370,10 @@
       "name": "Vanilla", 
       "mostly": "yellow"
     }, 
-    "#ff91a4": {
+    "#2e8b57": {
       "source": "wikipedia", 
-      "name": "Salmon pink", 
-      "mostly": "pink"
+      "name": "Sea green", 
+      "mostly": "green"
     }, 
     "#ccccff": {
       "source": "wikipedia", 
@@ -305,10 +385,20 @@
       "name": "Cream", 
       "mostly": "yellow"
     }, 
+    "#f2f3f4": {
+      "source": "wikipedia", 
+      "name": "Anti-flash white", 
+      "mostly": "white"
+    }, 
     "#ff004f": {
       "source": "wikipedia", 
       "name": "Folly", 
       "mostly": "red"
+    }, 
+    "#fff0f5": {
+      "source": "wikipedia", 
+      "name": "Lavender blush", 
+      "mostly": "white"
     }, 
     "#008080": {
       "source": "wikipedia", 
@@ -320,10 +410,20 @@
       "name": "Atomic tangerine", 
       "mostly": "orange"
     }, 
+    "#32cd32": {
+      "source": "wikipedia", 
+      "name": "Lime green", 
+      "mostly": "green"
+    }, 
     "#008000": {
       "source": "wikipedia", 
       "name": "Office green", 
       "mostly": "green"
+    }, 
+    "#faebd7": {
+      "source": "wikipedia", 
+      "name": "Antique white", 
+      "mostly": "white"
     }, 
     "#c19a6b": {
       "source": "wikipedia", 
@@ -345,10 +445,20 @@
       "name": "Cal Poly green", 
       "mostly": "green"
     }, 
+    "#f0ead6": {
+      "source": "wikipedia", 
+      "name": "Eggshell", 
+      "mostly": "white"
+    }, 
     "#fbec5d": {
       "source": "wikipedia", 
       "name": "Maize", 
       "mostly": "yellow"
+    }, 
+    "#cc7722": {
+      "source": "wikipedia", 
+      "name": "Ochre", 
+      "mostly": "brown"
     }, 
     "#f19cbb": {
       "source": "wikipedia", 
@@ -395,20 +505,50 @@
       "name": "Amber", 
       "mostly": "yellow"
     }, 
+    "#882d17": {
+      "source": "wikipedia", 
+      "name": "Sienna", 
+      "mostly": "brown"
+    }, 
     "#f7e7ce": {
       "source": "wikipedia", 
       "name": "Champagne", 
       "mostly": "orange"
+    }, 
+    "#3d2b1f": {
+      "source": "wikipedia", 
+      "name": "Bistre", 
+      "mostly": "brown"
+    }, 
+    "#9f8170": {
+      "source": "wikipedia", 
+      "name": "Beaver", 
+      "mostly": "brown"
     }, 
     "#ff66cc": {
       "source": "wikipedia", 
       "name": "Rosy pink", 
       "mostly": "pink"
     }, 
+    "#fff8dc": {
+      "source": "wikipedia", 
+      "name": "Cornsilk", 
+      "mostly": "white"
+    }, 
+    "#f4a460": {
+      "source": "wikipedia", 
+      "name": "Sandy brown", 
+      "mostly": "brown"
+    }, 
     "#6b8e23": {
       "source": "wikipedia", 
       "name": "Olive drab", 
       "mostly": "green"
+    }, 
+    "#ff7e00": {
+      "source": "wikipedia", 
+      "name": "ECE/SAE Amber", 
+      "mostly": "orange"
     }, 
     "#ff8f00": {
       "source": "wikipedia", 
@@ -430,20 +570,40 @@
       "name": "Mikado yellow", 
       "mostly": "yellow"
     }, 
+    "#fdf5e6": {
+      "source": "wikipedia", 
+      "name": "Old lace", 
+      "mostly": "white"
+    }, 
     "#e25822": {
       "source": "wikipedia", 
       "name": "Flame", 
       "mostly": "red"
+    }, 
+    "#a3c1ad": {
+      "source": "wikipedia", 
+      "name": "Cambridge Blue", 
+      "mostly": "blue"
     }, 
     "#6f00ff": {
       "source": "wikipedia", 
       "name": "Electric indigo", 
       "mostly": "blue"
     }, 
+    "#c2b280": {
+      "source": "wikipedia", 
+      "name": "Sand", 
+      "mostly": "brown"
+    }, 
     "#bfff00": {
       "source": "wikipedia", 
       "name": "Lime", 
       "mostly": "yellow"
+    }, 
+    "#eae0c8": {
+      "source": "wikipedia", 
+      "name": "Pearl", 
+      "mostly": "white"
     }, 
     "#ef9b0f": {
       "source": "wikipedia", 
@@ -455,10 +615,10 @@
       "name": "Paris Green", 
       "mostly": "green"
     }, 
-    "#ff7f50": {
+    "#ffefd5": {
       "source": "wikipedia", 
-      "name": "Coral", 
-      "mostly": "orange"
+      "name": "Papaya whip", 
+      "mostly": "yellow"
     }, 
     "#cc8899": {
       "source": "wikipedia", 
@@ -470,6 +630,16 @@
       "name": "Beige", 
       "mostly": "yellow"
     }, 
+    "#f8f4ff": {
+      "source": "wikipedia", 
+      "name": "Magnolia", 
+      "mostly": "white"
+    }, 
+    "#b8860b": {
+      "source": "wikipedia", 
+      "name": "Dark goldenrod", 
+      "mostly": "yellow"
+    }, 
     "#e2725b": {
       "source": "wikipedia", 
       "name": "Terra cotta", 
@@ -479,6 +649,11 @@
       "source": "wikipedia", 
       "name": "Persian green", 
       "mostly": "green"
+    }, 
+    "#f5deb3": {
+      "source": "wikipedia", 
+      "name": "Wheat", 
+      "mostly": "brown"
     }, 
     "#ffa500": {
       "source": "wikipedia", 
@@ -495,20 +670,25 @@
       "name": "Green", 
       "mostly": "green"
     }, 
-    "#73c2fb": {
+    "#ffcbdb": {
       "source": "wikipedia", 
-      "name": "Maya blue", 
-      "mostly": "blue"
+      "name": "Pink", 
+      "mostly": "pink"
     }, 
-    "#000080": {
+    "#ff4500": {
       "source": "wikipedia", 
-      "name": "Navy blue", 
-      "mostly": "blue"
+      "name": "Orange-red", 
+      "mostly": "orange"
     }, 
-    "#de3163": {
+    "#fbaed2": {
       "source": "wikipedia", 
-      "name": "Cerise", 
-      "mostly": "red"
+      "name": "Lavender pink", 
+      "mostly": "pink"
+    }, 
+    "#f5fffa": {
+      "source": "wikipedia", 
+      "name": "Mint cream", 
+      "mostly": "green"
     }, 
     "#003153": {
       "source": "wikipedia", 
@@ -520,6 +700,16 @@
       "name": "Deep carmine", 
       "mostly": "pink"
     }, 
+    "#b87333": {
+      "source": "wikipedia", 
+      "name": "Copper", 
+      "mostly": "brown"
+    }, 
+    "#635147": {
+      "source": "wikipedia", 
+      "name": "Umber", 
+      "mostly": "brown"
+    }, 
     "#007fff": {
       "source": "wikipedia", 
       "name": "Azure", 
@@ -530,35 +720,55 @@
       "name": "Tufts Blue", 
       "mostly": "blue"
     }, 
-    "#4b0082": {
+    "#9acd32": {
       "source": "wikipedia", 
-      "name": "Indigo", 
-      "mostly": "blue"
+      "name": "Yellow-green", 
+      "mostly": "green"
     }, 
     "#6699cc": {
       "source": "wikipedia", 
       "name": "Blue-gray", 
       "mostly": "blue"
     }, 
-    "#ffa000": {
+    "#fefdff": {
       "source": "wikipedia", 
-      "name": "Orange peel", 
-      "mostly": "orange"
+      "name": "Splashed white", 
+      "mostly": "white"
+    }, 
+    "#d2b48c": {
+      "source": "wikipedia", 
+      "name": "Tan", 
+      "mostly": "brown"
     }, 
     "#f0fff0": {
       "source": "wikipedia", 
       "name": "Honeydew", 
       "mostly": "green"
     }, 
-    "#fadfad": {
+    "#ff00cc": {
       "source": "wikipedia", 
-      "name": "Peach-yellow", 
-      "mostly": "orange"
+      "name": "Hot magenta", 
+      "mostly": "pink"
     }, 
     "#fffacd": {
       "source": "wikipedia", 
       "name": "Lemon chiffon", 
       "mostly": "yellow"
+    }, 
+    "#b86d29": {
+      "source": "wikipedia", 
+      "name": "Liver", 
+      "mostly": "brown"
+    }, 
+    "#ff7f50": {
+      "source": "wikipedia", 
+      "name": "Coral", 
+      "mostly": "orange"
+    }, 
+    "#edc9af": {
+      "source": "wikipedia", 
+      "name": "Desert sand", 
+      "mostly": "brown"
     }, 
     "#d4af37": {
       "source": "wikipedia", 
@@ -570,15 +780,25 @@
       "name": "Celeste", 
       "mostly": "blue"
     }, 
-    "#f88379": {
+    "#cd7f32": {
       "source": "wikipedia", 
-      "name": "Tea rose", 
-      "mostly": "orange"
+      "name": "Bronze", 
+      "mostly": "brown"
+    }, 
+    "#f0e68c": {
+      "source": "wikipedia", 
+      "name": "Khaki", 
+      "mostly": "brown"
     }, 
     "#ffba00": {
       "source": "wikipedia", 
       "name": "Selective yellow", 
       "mostly": "yellow"
+    }, 
+    "#a81c07": {
+      "source": "wikipedia", 
+      "name": "Rufous", 
+      "mostly": "brown"
     }, 
     "#ff2400": {
       "source": "wikipedia", 
@@ -615,6 +835,11 @@
       "name": "Thulian pink", 
       "mostly": "pink"
     }, 
+    "#900020": {
+      "source": "wikipedia", 
+      "name": "Burgundy", 
+      "mostly": "brown"
+    }, 
     "#e0115f": {
       "source": "wikipedia", 
       "name": "Ruby", 
@@ -625,9 +850,9 @@
       "name": "Persian orange", 
       "mostly": "orange"
     }, 
-    "#89cff0": {
+    "#0014a8": {
       "source": "wikipedia", 
-      "name": "Baby blue", 
+      "name": "Zaffre", 
       "mostly": "blue"
     }, 
     "#cc5500": {
@@ -730,10 +955,10 @@
       "name": "Bright green", 
       "mostly": "green"
     }, 
-    "#2e8b57": {
+    "#e97451": {
       "source": "wikipedia", 
-      "name": "Sea green", 
-      "mostly": "green"
+      "name": "Burnt sienna", 
+      "mostly": "brown"
     }, 
     "#f400a1": {
       "source": "wikipedia", 
@@ -765,10 +990,10 @@
       "name": "Redwood", 
       "mostly": "red"
     }, 
-    "#ff7e00": {
+    "#a0785a": {
       "source": "wikipedia", 
-      "name": "ECE/SAE Amber", 
-      "mostly": "orange"
+      "name": "Chamoisee", 
+      "mostly": "brown"
     }, 
     "#1c39bb": {
       "source": "wikipedia", 
@@ -865,6 +1090,16 @@
       "name": "Safety orange", 
       "mostly": "orange"
     }, 
+    "#faf0be": {
+      "source": "wikipedia", 
+      "name": "Blond", 
+      "mostly": "white"
+    }, 
+    "#faf0e6": {
+      "source": "wikipedia", 
+      "name": "Linen", 
+      "mostly": "white"
+    }, 
     "#ff4f00": {
       "source": "wikipedia", 
       "name": "International orange", 
@@ -879,6 +1114,11 @@
       "source": "wikipedia", 
       "name": "Peach", 
       "mostly": "orange"
+    }, 
+    "#f8f8ff": {
+      "source": "wikipedia", 
+      "name": "Ghost white", 
+      "mostly": "white"
     }, 
     "#fe28a2": {
       "source": "wikipedia", 
@@ -895,9 +1135,14 @@
       "name": "Ultra pink", 
       "mostly": "pink"
     }, 
-    "#0014a8": {
+    "#483c32": {
       "source": "wikipedia", 
-      "name": "Zaffre", 
+      "name": "Taupe", 
+      "mostly": "brown"
+    }, 
+    "#89cff0": {
+      "source": "wikipedia", 
+      "name": "Baby blue", 
       "mostly": "blue"
     }, 
     "#f4c430": {
@@ -910,15 +1155,15 @@
       "name": "Mint", 
       "mostly": "green"
     }, 
+    "#e1a95f": {
+      "source": "wikipedia", 
+      "name": "Earth yellow", 
+      "mostly": "brown"
+    }, 
     "#f0dc82": {
       "source": "wikipedia", 
       "name": "Buff", 
       "mostly": "yellow"
-    }, 
-    "#ff00cc": {
-      "source": "wikipedia", 
-      "name": "Hot magenta", 
-      "mostly": "pink"
     }, 
     "#29ab87": {
       "source": "wikipedia", 
@@ -930,25 +1175,40 @@
       "name": "Federal blue", 
       "mostly": "blue"
     }, 
+    "#000080": {
+      "source": "wikipedia", 
+      "name": "Navy blue", 
+      "mostly": "blue"
+    }, 
     "#ffdead": {
       "source": "wikipedia", 
       "name": "Navajo white", 
       "mostly": "yellow"
     }, 
-    "#32cd32": {
+    "#e5aa70": {
       "source": "wikipedia", 
-      "name": "Lime green", 
-      "mostly": "green"
+      "name": "Fawn", 
+      "mostly": "brown"
+    }, 
+    "#7b3f00": {
+      "source": "wikipedia", 
+      "name": "Chocolate", 
+      "mostly": "brown"
+    }, 
+    "#893f45": {
+      "source": "wikipedia", 
+      "name": "Cordovan", 
+      "mostly": "brown"
     }, 
     "#f28500": {
       "source": "wikipedia", 
       "name": "Tangerine", 
       "mostly": "orange"
     }, 
-    "#a3c1ad": {
+    "#954535": {
       "source": "wikipedia", 
-      "name": "Cambridge Blue", 
-      "mostly": "blue"
+      "name": "Chestnut", 
+      "mostly": "brown"
     }, 
     "#00bfff": {
       "source": "wikipedia", 
@@ -960,10 +1220,10 @@
       "name": "Bleu de France", 
       "mostly": "blue"
     }, 
-    "#9acd32": {
+    "#4b0082": {
       "source": "wikipedia", 
-      "name": "Yellow-green", 
-      "mostly": "green"
+      "name": "Indigo", 
+      "mostly": "blue"
     }, 
     "#00a550": {
       "source": "wikipedia", 
@@ -1010,20 +1270,30 @@
       "name": "Magenta", 
       "mostly": "red"
     }, 
-    "#ffcbdb": {
+    "#73c2fb": {
       "source": "wikipedia", 
-      "name": "Pink", 
-      "mostly": "pink"
+      "name": "Maya blue", 
+      "mostly": "blue"
     }, 
     "#ff7f00": {
       "source": "wikipedia", 
       "name": "Orange", 
       "mostly": "orange"
     }, 
+    "#79443b": {
+      "source": "wikipedia", 
+      "name": "Bole", 
+      "mostly": "brown"
+    }, 
     "#87ceeb": {
       "source": "wikipedia", 
       "name": "Sky blue", 
       "mostly": "blue"
+    }, 
+    "#321414": {
+      "source": "wikipedia", 
+      "name": "Seal brown", 
+      "mostly": "brown"
     }, 
     "#002fa7": {
       "source": "wikipedia", 
@@ -1034,6 +1304,11 @@
       "source": "wikipedia", 
       "name": "Pistachio", 
       "mostly": "green"
+    }, 
+    "#fadfad": {
+      "source": "wikipedia", 
+      "name": "Peach-yellow", 
+      "mostly": "orange"
     }, 
     "#4f7942": {
       "source": "wikipedia", 

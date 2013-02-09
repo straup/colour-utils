@@ -1,0 +1,193 @@
+{
+  "colours": {
+    "#e48400": {
+      "name": "Fulvous", 
+      "mostly": "brown"
+    }, 
+    "#b87333": {
+      "name": "Copper", 
+      "mostly": "brown"
+    }, 
+    "#d2b48c": {
+      "name": "Tan", 
+      "mostly": "brown"
+    }, 
+    "#cb410b": {
+      "name": "Sinopia", 
+      "mostly": "brown"
+    }, 
+    "#a81c07": {
+      "name": "Rufous", 
+      "mostly": "brown"
+    }, 
+    "#edc9af": {
+      "name": "Desert sand", 
+      "mostly": "brown"
+    }, 
+    "#6f4e37": {
+      "name": "Coffee", 
+      "mostly": "brown"
+    }, 
+    "#483c32": {
+      "name": "Taupe", 
+      "mostly": "brown"
+    }, 
+    "#b86d29": {
+      "name": "Liver", 
+      "mostly": "brown"
+    }, 
+    "#e5aa70": {
+      "name": "Fawn", 
+      "mostly": "brown"
+    }, 
+    "#c19a6b": {
+      "name": "Lion", 
+      "mostly": "brown"
+    }, 
+    "#cd7f32": {
+      "name": "Bronze", 
+      "mostly": "brown"
+    }, 
+    "#f0e68c": {
+      "name": "Khaki", 
+      "mostly": "brown"
+    }, 
+    "#cc7722": {
+      "name": "Ochre", 
+      "mostly": "brown"
+    }, 
+    "#7b3f00": {
+      "name": "Chocolate", 
+      "mostly": "brown"
+    }, 
+    "#321414": {
+      "name": "Seal brown", 
+      "mostly": "brown"
+    }, 
+    "#e1a95f": {
+      "name": "Earth yellow", 
+      "mostly": "brown"
+    }, 
+    "#f0dc82": {
+      "name": "Buff", 
+      "mostly": "brown"
+    }, 
+    "#645452": {
+      "name": "Wenge", 
+      "mostly": "brown"
+    }, 
+    "#b7410e": {
+      "name": "Rust", 
+      "mostly": "brown"
+    }, 
+    "#635147": {
+      "name": "Umber", 
+      "mostly": "brown"
+    }, 
+    "#900020": {
+      "name": "Burgundy", 
+      "mostly": "brown"
+    }, 
+    "#882d17": {
+      "name": "Sienna", 
+      "mostly": "brown"
+    }, 
+    "#926644": {
+      "name": "Raw umber", 
+      "mostly": "brown"
+    }, 
+    "#3d2b1f": {
+      "name": "Bistre", 
+      "mostly": "brown"
+    }, 
+    "#9f8170": {
+      "name": "Beaver", 
+      "mostly": "brown"
+    }, 
+    "#964b00": {
+      "name": "Brown", 
+      "mostly": "brown"
+    }, 
+    "#6c541e": {
+      "name": "Field drab", 
+      "mostly": "brown"
+    }, 
+    "#954535": {
+      "name": "Chestnut", 
+      "mostly": "brown"
+    }, 
+    "#800000": {
+      "name": "Maroon", 
+      "mostly": "brown"
+    }, 
+    "#e4d00a": {
+      "name": "Citrine", 
+      "mostly": "brown"
+    }, 
+    "#f4a460": {
+      "name": "Sandy brown", 
+      "mostly": "brown"
+    }, 
+    "#c2b280": {
+      "name": "Sand", 
+      "mostly": "brown"
+    }, 
+    "#8a3324": {
+      "name": "Burnt umber", 
+      "mostly": "brown"
+    }, 
+    "#f5deb3": {
+      "name": "Wheat", 
+      "mostly": "brown"
+    }, 
+    "#f4f0ec": {
+      "name": "Isabelline", 
+      "mostly": "brown"
+    }, 
+    "#ab4e52": {
+      "name": "Redwood", 
+      "mostly": "brown"
+    }, 
+    "#79443b": {
+      "name": "Bole", 
+      "mostly": "brown"
+    }, 
+    "#704214": {
+      "name": "Sepia", 
+      "mostly": "brown"
+    }, 
+    "#e97451": {
+      "name": "Burnt sienna", 
+      "mostly": "brown"
+    }, 
+    "#f5f5dc": {
+      "name": "Beige", 
+      "mostly": "brown"
+    }, 
+    "#cd5700": {
+      "name": "Tawny", 
+      "mostly": "brown"
+    }, 
+    "#80461b": {
+      "name": "Russet", 
+      "mostly": "brown"
+    }, 
+    "#893f45": {
+      "name": "Cordovan", 
+      "mostly": "brown"
+    }, 
+    "#a0785a": {
+      "name": "Chamoisee", 
+      "mostly": "brown"
+    }, 
+    "#c04000": {
+      "name": "Mahogany", 
+      "mostly": "brown"
+    }, 
+    "#a52a2a": {
+      "name": "Auburn", 
+      "mostly": "brown"
+    }
+  }, 
+  "source": "wikipedia"
+}

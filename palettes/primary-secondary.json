@@ -1,0 +1,32 @@
+{
+  "colours": {
+    "#ff0000": {
+      "name": "Red"
+    }, 
+    "#ffff00": {
+      "name": "Yellow"
+    }, 
+    "#00ffff": {
+      "name": "Cyan"
+    },
+    "#0000ff": {
+      "name": "Pure Blue"
+    },
+    "#ff6600": {
+      "name": "Orange"
+    }, 
+    "#003300": {
+      "name": "Pure Green"
+    }, 
+    "#006600": {
+      "name": "Green"
+    }, 
+    "#ff00ff": {
+      "name": "Magenta"
+    },
+    "#660066": {
+      "name": "Purple"
+    }
+  },
+  "source": "..."
+}

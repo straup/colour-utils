@@ -85,5 +85,10 @@ if __name__ == '__main__':
     u = utils(palette)
     c_hex, c_name = u.closest_colour(hex)
 
-    im = u.side_by_side(hex, c_hex)
-    im.show()    
+    print hex
+    print c_hex
+    print c_name
+
+
+    # im = u.side_by_side(hex, c_hex)
+    # im.show()    

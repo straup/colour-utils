@@ -37,6 +37,7 @@ if __name__ == '__main__':
 
     im = draw(ref, old)
 
+    im.save("test.png")
     im.show()
 
 

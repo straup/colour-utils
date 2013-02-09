@@ -1,9 +1,5 @@
 {
   "colours": {
-    "#f5fffa": {
-      "name": "Mint cream", 
-      "family": "green"
-    }, 
     "#01796f": {
       "name": "Pine green", 
       "family": "green"
@@ -22,10 +18,6 @@
     }, 
     "#123524": {
       "name": "Phthalo green", 
-      "family": "green"
-    }, 
-    "#f0fff0": {
-      "name": "Honeydew", 
       "family": "green"
     }, 
     "#177245": {
@@ -158,6 +150,18 @@
     }, 
     "#00ff00": {
       "name": "Green", 
+      "family": "green"
+    },
+    "#008080": {
+      "name": "Teal", 
+      "family": "green"
+    },
+    "#96c8a2": {
+      "name": "Eton blue", 
+      "family": "green"
+    },
+    "#a3c1ad": {
+      "name": "Cambridge Blue", 
       "family": "green"
     }
   }, 

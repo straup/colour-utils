@@ -79,6 +79,30 @@
     "#c71585": {
       "name": "Red-violet", 
       "family": "violet"
+    },
+    "#4b0082": {
+      "name": "Indigo", 
+      "family": "violet"
+    },
+    "#6f00ff": {
+      "name": "Electric indigo", 
+      "family": "violet"
+    },
+    "#5a4fcf": {
+      "name": "Iris", 
+      "family": "violet"
+    },
+    "#6050dc": {
+      "name": "Majorelle Blue", 
+      "family": "violet"
+    },
+    "#ccccff": {
+      "name": "Periwinkle", 
+      "family": "violet"
+    },
+    "#324ab2": {
+      "name": "Violet-Blue", 
+      "family": "violet"
     }
   }, 
   "source": "https://en.wikipedia.org/wiki/Category:Shades_of_violet"

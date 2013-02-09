@@ -4,10 +4,6 @@
       "name": "Air Force blue", 
       "family": "blue"
     }, 
-    "#008080": {
-      "name": "Teal", 
-      "family": "blue"
-    }, 
     "#003153": {
       "name": "Prussian blue", 
       "family": "blue"
@@ -22,10 +18,6 @@
     }, 
     "#007fff": {
       "name": "Azure", 
-      "family": "blue"
-    }, 
-    "#ccccff": {
-      "name": "Periwinkle", 
       "family": "blue"
     }, 
     "#4169e1": {
@@ -72,10 +64,6 @@
       "name": "Palatinate blue", 
       "family": "blue"
     }, 
-    "#6f00ff": {
-      "name": "Electric indigo", 
-      "family": "blue"
-    }, 
     "#0014a8": {
       "name": "Zaffre", 
       "family": "blue"
@@ -100,20 +88,12 @@
       "name": "Air superiority blue", 
       "family": "blue"
     }, 
-    "#5a4fcf": {
-      "name": "Iris", 
-      "family": "blue"
-    }, 
     "#7df9ff": {
       "name": "Electric blue", 
       "family": "blue"
     }, 
     "#00009c": {
       "name": "Duke blue", 
-      "family": "blue"
-    }, 
-    "#324ab2": {
-      "name": "Violet-Blue", 
       "family": "blue"
     }, 
     "#add8e6": {
@@ -140,10 +120,6 @@
       "name": "Dark blue", 
       "family": "blue"
     }, 
-    "#a3c1ad": {
-      "name": "Cambridge Blue", 
-      "family": "blue"
-    }, 
     "#00bfff": {
       "name": "Deep sky blue", 
       "family": "blue"
@@ -156,24 +132,8 @@
       "name": "Bleu de France", 
       "family": "blue"
     }, 
-    "#f0f8ff": {
-      "name": "Alice blue", 
-      "family": "blue"
-    }, 
-    "#96c8a2": {
-      "name": "Eton blue", 
-      "family": "blue"
-    }, 
     "#6495ed": {
       "name": "Cornflower blue", 
-      "family": "blue"
-    }, 
-    "#4b0082": {
-      "name": "Indigo", 
-      "family": "blue"
-    }, 
-    "#40e0d0": {
-      "name": "Turquoise", 
       "family": "blue"
     }, 
     "#6082b6": {
@@ -194,10 +154,6 @@
     }, 
     "#002147": {
       "name": "Oxford Blue", 
-      "family": "blue"
-    }, 
-    "#6050dc": {
-      "name": "Majorelle Blue", 
       "family": "blue"
     }, 
     "#75b2dd": {
@@ -234,6 +190,10 @@
     }, 
     "#0047ab": {
       "name": "Cobalt blue", 
+      "family": "blue"
+    },
+    "#40e0d0": {
+      "name": "Turquoise", 
       "family": "blue"
     }
   }, 

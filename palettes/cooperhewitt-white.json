@@ -111,6 +111,18 @@
     "#ffefd5": {
       "name": "Papaya whip", 
       "family": "white"
+    },
+    "#f0f8ff": {
+      "name": "Alice blue", 
+      "family": "white"
+    },
+    "#f0fff0": {
+      "name": "Honeydew", 
+      "family": "white"
+    },
+    "#f5fffa": {
+      "name": "Mint cream", 
+      "family": "white"
     }
   }, 
   "source": "https://en.wikipedia.org/wiki/Category:Shades_of_white"

@@ -1,0 +1,165 @@
+{
+  "colours": {
+    "#f5fffa": {
+      "name": "Mint cream", 
+      "mostly": "green"
+    }, 
+    "#01796f": {
+      "name": "Pine green", 
+      "mostly": "green"
+    }, 
+    "#7cfc00": {
+      "name": "Lawn green", 
+      "mostly": "green"
+    }, 
+    "#00693e": {
+      "name": "Dartmouth green", 
+      "mostly": "green"
+    }, 
+    "#556b2f": {
+      "name": "Dark olive green", 
+      "mostly": "green"
+    }, 
+    "#123524": {
+      "name": "Phthalo green", 
+      "mostly": "green"
+    }, 
+    "#f0fff0": {
+      "name": "Honeydew", 
+      "mostly": "green"
+    }, 
+    "#177245": {
+      "name": "Dark spring green", 
+      "mostly": "green"
+    }, 
+    "#008000": {
+      "name": "Office green", 
+      "mostly": "green"
+    }, 
+    "#008080": {
+      "name": "Teal", 
+      "mostly": "green"
+    }, 
+    "#1e4d2b": {
+      "name": "Cal Poly green", 
+      "mostly": "green"
+    }, 
+    "#009e60": {
+      "name": "Shamrock green", 
+      "mostly": "green"
+    }, 
+    "#228b22": {
+      "name": "Forest green", 
+      "mostly": "green"
+    }, 
+    "#7fff00": {
+      "name": "Chartreuse", 
+      "mostly": "green"
+    }, 
+    "#74c365": {
+      "name": "Mantis", 
+      "mostly": "green"
+    }, 
+    "#29ab87": {
+      "name": "Jungle green", 
+      "mostly": "green"
+    }, 
+    "#3fff00": {
+      "name": "Harlequin", 
+      "mostly": "green"
+    }, 
+    "#006600": {
+      "name": "Pakistan green", 
+      "mostly": "green"
+    }, 
+    "#355e3b": {
+      "name": "Hunter green", 
+      "mostly": "green"
+    }, 
+    "#a7fc00": {
+      "name": "Spring bud", 
+      "mostly": "green"
+    }, 
+    "#32cd32": {
+      "name": "Lime green", 
+      "mostly": "green"
+    }, 
+    "#bfff00": {
+      "name": "Lime", 
+      "mostly": "green"
+    }, 
+    "#4f7942": {
+      "name": "Fern green", 
+      "mostly": "green"
+    }, 
+    "#009900": {
+      "name": "Islam green", 
+      "mostly": "green"
+    }, 
+    "#7ba05b": {
+      "name": "Asparagus", 
+      "mostly": "green"
+    }, 
+    "#9acd32": {
+      "name": "Yellow-green", 
+      "mostly": "green"
+    }, 
+    "#00a550": {
+      "name": "Pigment green", 
+      "mostly": "green"
+    }, 
+    "#8db600": {
+      "name": "Apple green", 
+      "mostly": "green"
+    }, 
+    "#6b8e23": {
+      "name": "Olive drab", 
+      "mostly": "green"
+    }, 
+    "#adff2f": {
+      "name": "Green-yellow", 
+      "mostly": "green"
+    }, 
+    "#808000": {
+      "name": "Olive", 
+      "mostly": "green"
+    }, 
+    "#50c878": {
+      "name": "Paris Green", 
+      "mostly": "green"
+    }, 
+    "#66ff00": {
+      "name": "Bright green", 
+      "mostly": "green"
+    }, 
+    "#2e8b57": {
+      "name": "Sea green", 
+      "mostly": "green"
+    }, 
+    "#3eb489": {
+      "name": "Mint", 
+      "mostly": "green"
+    }, 
+    "#138808": {
+      "name": "India green", 
+      "mostly": "green"
+    }, 
+    "#00a693": {
+      "name": "Persian green", 
+      "mostly": "green"
+    }, 
+    "#93c572": {
+      "name": "Pistachio", 
+      "mostly": "green"
+    }, 
+    "#00ff7f": {
+      "name": "Spring green", 
+      "mostly": "green"
+    }, 
+    "#00ff00": {
+      "name": "Green", 
+      "mostly": "green"
+    }
+  }, 
+  "source": "wikipedia"
+}

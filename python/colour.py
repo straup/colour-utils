@@ -62,7 +62,7 @@ class palette:
             (r, g, b) = map(to_float, x)
             h, s, l = colorsys.rgb_to_hsv(r,g,b)
             h = h if 0 < h else 1 # 0 -> 1
-            return l, s, h
+            return h, s, l
 
         def yqi(x):
             to_float = lambda x : x / 255.0
@@ -71,7 +71,7 @@ class palette:
             y = y if 0 < y else 1 # 0 -> 1
             return y, q, i
 
-        colours = sorted(colours, key=yqi)
+        colours = sorted(colours, key=hsl)
         colours = map(webcolors.rgb_to_hex, colours)
 
         return colours

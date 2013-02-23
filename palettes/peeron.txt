@@ -1,0 +1,195 @@
+#OldGray { background-color: #A1A5A2; }
+#ldOldGray { background-color: #9BA19D; }
+#OldDkGray { background-color: #6D6E6C; color: white; }
+#ldOldDkGray { background-color: #6D6E5C; color: white; }
+#SandGreen { background-color: #789081; }
+#ldSandGreen { background-color: #A0BCAC; }
+#TrLtBlue { background-color: #C1DFF0; }
+#ldTrLtBlue { background-color: #AEEFEC; }
+#TrNeonGreen { background-color: #F8F184; }
+#ldTrNeonGreen { background-color: #C0FF00; }
+#SandBlue { background-color: #74869C; }
+#ldSandBlue { background-color: #6074A1; color: white; }
+#TrNeonOrange { background-color: #D9856C; }
+#ldTrNeonOrange { background-color: #FF800D; }
+#TrBlue { background-color: #7BB6E8; }
+#ldTrBlue { background-color: #0020A0; color: white; }
+#MdBlue { background-color: #6E99C9; }
+#ldMdBlue { background-color: #5A93DB; }
+#TrGreen { background-color: #84B68D; }
+#ldTrGreen { background-color: #84B68D; }
+#LtBlue { background-color: #B4D2E3; }
+#ldLtBlue { background-color: #B4D2E3; }
+#Clear { background-color: #ECECEC; }
+#ldClear { background-color: #FCFCFC; }
+#DkRed { background-color: #7B2E2F; color: white; }
+#ldDkRed { background-color: #720E0F; color: white; }
+#BtGreen { background-color: #4B974A; color: white; }
+#ldBtGreen { background-color: #4B9F4A; color: white; }
+#NavyBlue { background-color: #203A56; color: white; }
+#ldNavyBlue { background-color: #0A3463; color: white; }
+#DkPink { background-color: #CD6298; }
+#ldDkPink { background-color: #C870A0; }
+#MdGreen { background-color: #A1C48B; }
+#ldMdGreen { background-color: #73DCA1; }
+#ldChromeSilver { background-color: #E0E0E0; }
+#Smoke { background-color: #BFB7B1; }
+#ldSmoke { background-color: #635F52; color: white; }
+#ldChromeGold { background-color: #BBA53D; }
+#TrPurple { background-color: #A5A5CB; }
+#ldTrPurple { background-color: #640061; color: white; }
+#TrRed { background-color: #CD544B; color: white; }
+#ldTrRed { background-color: #C91A09; color: white; }
+#PearlLtGray { background-color: #9CA3A8; }
+#ldPearlLtGray { background-color: #9CA3A8; }
+#TrYellow { background-color: #F7F18D; }
+#ldTrYellow { background-color: #F5CD2F; }
+#ldChromeBrass { background-color: #645A4C; color: white; }
+#LtGreen { background-color: #C2DAB8; }
+#ldLtGreen { background-color: #C2DAB8; }
+#ScalaGray { background-color: #C7C1B7; }
+#ldScalaGray { background-color: #E6E3DA; }
+#Black { background-color: #1B2A34; color: white; }
+#ldBlack { background-color: #05131D; color: white; }
+#White { background-color: #F2F3F2; }
+#ldWhite { background-color: #FFFFFF; }
+#Red { background-color: #C4281B; color: white; }
+#ldRed { background-color: #C91A09; color: white; }
+#SandRed { background-color: #957976; }
+#ldSandRed { background-color: #D67572; }
+#OldBrown { background-color: #62473B; color: white; }
+#ldOldBrown { background-color: #583927; color: white; }
+#DkOrange { background-color: #A05F34; color: white; }
+#ldDkOrange { background-color: #A95500; color: white; }
+#Tan { background-color: #D7C599; }
+#ldTan { background-color: #E4CD9E; }
+#Flesh { background-color: #CC8E68; }
+#ldFlesh { background-color: #D09168; }
+#Orange { background-color: #DA8540; }
+#ldOrange { background-color: #FE8A18; }
+#MdOrange { background-color: #E29B3F; }
+#ldMdOrange { background-color: #FFA70B; }
+#Yellow { background-color: #F5CD2F; }
+#ldYellow { background-color: #F2CD37; }
+#LtYellow { background-color: #F9E999; }
+#ldLtYellow { background-color: #FBE696; }
+#Lime { background-color: #A4BD46; }
+#ldLime { background-color: #BBE90B; }
+#MdLime { background-color: #C7D23C; }
+#ldMdLime { background-color: #C7D23C; }
+#DkGreen { background-color: #27462C; color: white; }
+#ldDkGreen { background-color: #184632; color: white; }
+#Green { background-color: #287F46; color: white; }
+#ldGreen { background-color: #237841; color: white; }
+#Teal { background-color: #008F9B; color: white; }
+#ldTeal { background-color: #008F9B; color: white; }
+#LtTeal { background-color: #55A5AF; }
+#ldLtTeal { background-color: #55A5AF; }
+#Blue { background-color: #0D69AB; color: white; }
+#ldBlue { background-color: #0055BF; color: white; }
+#ldMaerskBlue { background-color: #3592C3; }
+#Violet { background-color: #435493; color: white; }
+#ldViolet { background-color: #4354A3; color: white; }
+#LtViolet { background-color: #C1CADE; }
+#ldLtViolet { background-color: #C9CAE2; }
+#SandPurple { background-color: #877C90; }
+#ldSandPurple { background-color: #845E84; color: white; }
+#Purple { background-color: #6B327B; color: white; }
+#ldPurple { background-color: #81007B; color: white; }
+#Magenta { background-color: #923978; color: white; }
+#ldMagenta { background-color: #923978; color: white; }
+#ldSalmon { background-color: #F2705E; }
+#DkTan { background-color: #958A73; }
+#ldDkTan { background-color: #958A73; }
+#EarthOrange { background-color: #CB8442; }
+#ldEarthOrange { background-color: #FA9C1C; }
+#Aqua { background-color: #B7D7D5; }
+#ldAqua { background-color: #B3D7D1; }
+#ldPink { background-color: #FC97AC; }
+#TrPink { background-color: #E4ADC8; }
+#ldTrPink { background-color: #DF6695; }
+#ldChromeBlue { background-color: #6C96BF; }
+#ldChromeGreen { background-color: #3CB371; color: white; }
+#PearlDkGray { background-color: #575857; color: white; }
+#ldPearlDkGray { background-color: #575857; color: white; }
+#PearlBlue { background-color: #7988a1; }
+#ldPearlBlue { background-color: #7988A1; }
+#GlowInTheDark { background-color: #ECE8DE; }
+#ldGlowInTheDark { background-color: #E0FFB0; }
+#ldTrLuWhite { background-color: #FFFFFF; }
+#TrMdBlue { background-color: #CFE2F7; }
+#ldTrMdBlue { background-color: #CFE2F7; }
+#PearlLtGold { background-color: #DCBC81; }
+#ldPearlLtGold { background-color: #DCBC81; }
+#ldPearlescent { background-color: #F2F3F2; }
+#ldTrPinkGlitter { background-color: #DF6695; }
+#ldChromePink { background-color: #AA4D8E; }
+#ldFabuBrown { background-color: #B67B50; }
+#LtLime { background-color: #D9E4A7; }
+#ldLtLime { background-color: #D9E4A7; }
+#DkStone { background-color: #635F61; color: white; }
+#ldDkStone { background-color: #6C6E68; color: white; }
+#MdStone { background-color: #A3A2A4; }
+#ldMdStone { background-color: #A0A5A9; }
+#LtStone { background-color: #E5E4DE; }
+#ldLtStone { background-color: #E6E3E0; }
+#RedBrown { background-color: #694027; color: white; }
+#ldRedBrown { background-color: #582A12; color: white; }
+#DuploRose { background-color: #C470A0; }
+#ldDuploRose { background-color: #F785B1; }
+#MdLilac { background-color: #342B75; color: white; }
+#ldMdLilac { background-color: #3F3691; color: white; }
+#ParaPink { background-color: #DC9095; }
+#ldParaPink { background-color: #FECCCF; }
+#ldLtFlesh { background-color: #F6D7B3; }
+#TrSalmon { background-color: #E1A4C2; }
+#ldTrPeach { background-color: #DAB000; }
+#ldTrDkOrange { background-color: #F08F1C; }
+#DkFlesh { background-color: #7C5C45; color: white; }
+#ldDkFlesh { background-color: #7C503A; color: white; }
+#DoveBlue { background-color: #7DBBDD; }
+#ldDoveBlue { background-color: #7DBFDD; }
+#LtSalmon { background-color: #EEC4B6; }
+#ldLtSalmon { background-color: #FEBABD; }
+#CoolYellow { background-color: #FDEA8C; }
+#ldCoolYellow { background-color: #FFF03A; }
+#ldPearlCopper { background-color: #AE7A59; }
+#ldClearGlitter { background-color: #FFFFFF; }
+#RoyalBlue { background-color: #6874AC; }
+#ldRoyalBlue { background-color: #6874CA; }
+#ldDkRoyalBlue { background-color: #2032B0; color: white; }
+#LtRoyalBlue { background-color: #9FC3E9; }
+#ldLtRoyalBlue { background-color: #9FC3E9; }
+#ldTrPurpleGlitter { background-color: #640061; color: white; }
+#ldBlackGlitter { background-color: #000000; color: white; }
+#BtPurple { background-color: #8E4285; color: white; }
+#ldBtPurple { background-color: #CD6298; }
+#LtPurple { background-color: #E4ADC8; }
+#ldLtPurple { background-color: #E4ADC8; }
+#LtOrange { background-color: #EAB891; }
+#ldLtOrange { background-color: #F9BA61; }
+#ldPearlSilver { background-color: #898788; }
+#ldPearlDkGold { background-color: #B48455; }
+#PaleOrange { background-color: #F3CF9B; }
+#ldPaleOrange { background-color: #F3CF9B; }
+#ldTrLtPink { background-color: #E4ADC8; }
+#ldTrBtGreen { background-color: #D9E4A7; }
+#DkNougat { background-color: #AE7A59; }
+#ldTrLilac { background-color: #96709F; }
+#BtLtOrange { background-color: #E8AB2D; }
+#ldBtLtOrange { background-color: #F8BB3D; }
+#Curry { background-color: #D7A94B; }
+#Rust { background-color: #8F4C2A; color: white; }
+#ldRust { background-color: #B31004; color: white; }
+#ldTrIceBlue { background-color: #C1DFF0; }
+#ldPearlGold { background-color: #AA7F2E; color: white; }
+#ldPearlVLGray { background-color: #ABADAC; }
+#ldBlackCopperGlitter { background-color: #000000; color: white; }
+#ldDkStoneGlitter { background-color: #635F61; color: white; }
+#ldTrGlowInTheDark { background-color: #BDC6AD; }
+#ldDkBrown { background-color: #352100; color: white; }
+#ldChromeBlack { background-color: #1B2A34; color: white; }
+#ldMdDkFlesh { background-color: #CC702A; color: white; }
+#ldLtAqua { background-color: #ADC3C0; }
+#ldDkAzure { background-color: #078BC9; color: white; }
+-->

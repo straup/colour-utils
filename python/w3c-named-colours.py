@@ -12,7 +12,10 @@ def named_colours(url):
     soup = BeautifulSoup.BeautifulSoup(rsp.read())
     table = soup.find('table', {'class': 'named-color-table'})
     
-    palette = {}
+    palette = {
+        'colours': {},
+        'source': ''
+    }
 
     for tr in table.findAll('tr') :
         
@@ -27,7 +30,7 @@ def named_colours(url):
         name = name.replace("background:", "")
         hex = hex.replace("background:", "")
             
-        palette[ hex ] = { 'name': name }
+        palette['colours'][ hex ] = { 'name': name }
 
     return palette
 

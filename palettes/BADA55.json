@@ -1,0 +1,788 @@
+{
+    "colours": {
+        "#01d135": {
+            "name": "oldies"
+        }, 
+        "#01d1e5": {
+            "name": "oldies"
+        }, 
+        "#01d357": {
+            "name": "oldest"
+        }, 
+        "#02ac1e": {
+            "name": "oracle"
+        }, 
+        "#02d325": {
+            "name": "orders"
+        }, 
+        "#02de25": {
+            "name": "orders"
+        }, 
+        "#0ff1c3": {
+            "name": "office"
+        }, 
+        "#100535": {
+            "name": "looses"
+        }, 
+        "#10053d": {
+            "name": "loosed"
+        }, 
+        "#1005e2": {
+            "name": "looser"
+        }, 
+        "#1005e5": {
+            "name": "looses"
+        }, 
+        "#1005ed": {
+            "name": "loosed"
+        }, 
+        "#10073d": {
+            "name": "looted"
+        }, 
+        "#1007ed": {
+            "name": "looted"
+        }, 
+        "#101": {
+            "name": "lol"
+        }, 
+        "#1011ed": {
+            "name": "lolled"
+        }, 
+        "#104d3d": {
+            "name": "loaded"
+        }, 
+        "#10aded": {
+            "name": "loaded"
+        }, 
+        "#10ca1e": {
+            "name": "locale"
+        }, 
+        "#10ca7e": {
+            "name": "locate"
+        }, 
+        "#11f73d": {
+            "name": "lifted"
+        }, 
+        "#11f7ed": {
+            "name": "lifted"
+        }, 
+        "#1a5e25": {
+            "name": "lasers"
+        }, 
+        "#1abe15": {
+            "name": "labels"
+        }, 
+        "#1c3": {
+            "name": "ice"
+        }, 
+        "#1ce": {
+            "name": "ice"
+        }, 
+        "#1d01e5": {
+            "name": "idoles"
+        }, 
+        "#1d1075": {
+            "name": "idiots"
+        }, 
+        "#1d3": {
+            "name": "ide"
+        }, 
+        "#2011e2": {
+            "name": "roller"
+        }, 
+        "#20b075": {
+            "name": "robots"
+        }, 
+        "#20bbe2": {
+            "name": "robber"
+        }, 
+        "#20be27": {
+            "name": "robert"
+        }, 
+        "#20de05": {
+            "name": "rodeos"
+        }, 
+        "#23d": {
+            "name": "red"
+        }, 
+        "#247": {
+            "name": "rat"
+        }, 
+        "#248817": {
+            "name": "rabbit"
+        }, 
+        "#2a1d32": {
+            "name": "raider"
+        }, 
+        "#2a1de2": {
+            "name": "raider"
+        }, 
+        "#2abb17": {
+            "name": "rabbit"
+        }, 
+        "#2ad105": {
+            "name": "radios"
+        }, 
+        "#2ed": {
+            "name": "red"
+        }, 
+        "#2edd17": {
+            "name": "reddit"
+        }, 
+        "#346135": {
+            "name": "eagles"
+        }, 
+        "#3d1702": {
+            "name": "editor"
+        }, 
+        "#41c001": {
+            "name": "alcool"
+        }, 
+        "#455": {
+            "name": "ass"
+        }, 
+        "#4c4c14": {
+            "name": "acacia"
+        }, 
+        "#4cc02d": {
+            "name": "accord"
+        }, 
+        "#4cc355": {
+            "name": "access"
+        }, 
+        "#4d0835": {
+            "name": "adobes"
+        }, 
+        "#501311": {
+            "name": "soleil"
+        }, 
+        "#501e11": {
+            "name": "soleil"
+        }, 
+        "#505": {
+            "name": "sos"
+        }, 
+        "#511c35": {
+            "name": "slices"
+        }, 
+        "#511ce5": {
+            "name": "slices"
+        }, 
+        "#5414d5": {
+            "name": "salads"
+        }, 
+        "#54d": {
+            "name": "sad"
+        }, 
+        "#5702ed": {
+            "name": "stored"
+        }, 
+        "#57a275": {
+            "name": "starts"
+        }, 
+        "#57a6e5": {
+            "name": "stages"
+        }, 
+        "#57a71c": {
+            "name": "static"
+        }, 
+        "#57a7e5": {
+            "name": "states"
+        }, 
+        "#57ab1e": {
+            "name": "stable"
+        }, 
+        "#5a1ad5": {
+            "name": "salads"
+        }, 
+        "#5ad": {
+            "name": "sad"
+        }, 
+        "#5ca135": {
+            "name": "scales"
+        }, 
+        "#5ca1e5": {
+            "name": "scales"
+        }, 
+        "#5e12ed": {
+            "name": "seized"
+        }, 
+        "#5ea1ed": {
+            "name": "sealed"
+        }, 
+        "#5eabed": {
+            "name": "seabed"
+        }, 
+        "#5ee": {
+            "name": "see"
+        }, 
+        "#600613": {
+            "name": "google"
+        }, 
+        "#60061e": {
+            "name": "google"
+        }, 
+        "#607": {
+            "name": "got"
+        }, 
+        "#60d": {
+            "name": "god"
+        }, 
+        "#60de55": {
+            "name": "godess"
+        }, 
+        "#610b35": {
+            "name": "globes"
+        }, 
+        "#610ba1": {
+            "name": "global"
+        }, 
+        "#610bb5": {
+            "name": "globbs"
+        }, 
+        "#610be5": {
+            "name": "globes"
+        }, 
+        "#617": {
+            "name": "git"
+        }, 
+        "#61f": {
+            "name": "gif"
+        }, 
+        "#62ea5e": {
+            "name": "grease"
+        }, 
+        "#62eed9": {
+            "name": "greedy"
+        }, 
+        "#6a6": {
+            "name": "gag"
+        }, 
+        "#6e026e": {
+            "name": "george"
+        }, 
+        "#7055e2": {
+            "name": "tosser"
+        }, 
+        "#707020": {
+            "name": "totoro"
+        }, 
+        "#70a575": {
+            "name": "toasts"
+        }, 
+        "#70e": {
+            "name": "toe"
+        }, 
+        "#716325": {
+            "name": "tigers"
+        }, 
+        "#716e25": {
+            "name": "tigers"
+        }, 
+        "#717135": {
+            "name": "titles"
+        }, 
+        "#7171e5": {
+            "name": "titles"
+        }, 
+        "#71771e": {
+            "name": "tittie"
+        }, 
+        "#72ace5": {
+            "name": "traces"
+        }, 
+        "#737215": {
+            "name": "tetris"
+        }, 
+        "#73a532": {
+            "name": "teaser"
+        }, 
+        "#741be5": {
+            "name": "tribes"
+        }, 
+        "#747700": {
+            "name": "tattoo"
+        }, 
+        "#74b135": {
+            "name": "tables"
+        }, 
+        "#74b137": {
+            "name": "tablet"
+        }, 
+        "#7a2d15": {
+            "name": "tardis"
+        }, 
+        "#7e57e2": {
+            "name": "tester"
+        }, 
+        "#7e7215": {
+            "name": "tetris"
+        }, 
+        "#7ea": {
+            "name": "tea"
+        }, 
+        "#7ea5e2": {
+            "name": "teaser"
+        }, 
+        "#8042d5": {
+            "name": "boards"
+        }, 
+        "#846315": {
+            "name": "bagels"
+        }, 
+        "#84d455": {
+            "name": "badass"
+        }, 
+        "#a12": {
+            "name": "air"
+        }, 
+        "#a22e57": {
+            "name": "arrest"
+        }, 
+        "#a2ab1c": {
+            "name": "arabic"
+        }, 
+        "#a55": {
+            "name": "ass"
+        }, 
+        "#a55375": {
+            "name": "assets"
+        }, 
+        "#ac1d1c": {
+            "name": "acidic"
+        }, 
+        "#ac2055": {
+            "name": "across"
+        }, 
+        "#ac7": {
+            "name": "act"
+        }, 
+        "#acac1a": {
+            "name": "acacia"
+        }, 
+        "#acc02d": {
+            "name": "accord"
+        }, 
+        "#acce55": {
+            "name": "access"
+        }, 
+        "#ad0be5": {
+            "name": "adobes"
+        }, 
+        "#add1c7": {
+            "name": "addict"
+        }, 
+        "#b00": {
+            "name": "boo"
+        }, 
+        "#b000b5": {
+            "name": "booobs"
+        }, 
+        "#b0061e": {
+            "name": "boogie"
+        }, 
+        "#b00b1e": {
+            "name": "boobie"
+        }, 
+        "#b02de2": {
+            "name": "border"
+        }, 
+        "#b02ea1": {
+            "name": "boreal"
+        }, 
+        "#b0661e": {
+            "name": "boggle"
+        }, 
+        "#b0771e": {
+            "name": "bottle"
+        }, 
+        "#b0a2d5": {
+            "name": "boards"
+        }, 
+        "#b0bca7": {
+            "name": "bobcat"
+        }, 
+        "#b100d5": {
+            "name": "bloods"
+        }, 
+        "#b10a75": {
+            "name": "bloats"
+        }, 
+        "#b16632": {
+            "name": "bigger"
+        }, 
+        "#b166e2": {
+            "name": "bigger"
+        }, 
+        "#b17": {
+            "name": "bit"
+        }, 
+        "#b17732": {
+            "name": "bitter"
+        }, 
+        "#b177e2": {
+            "name": "bitter"
+        }, 
+        "#b1a7c4": {
+            "name": "biatch"
+        }, 
+        "#b1ab1a": {
+            "name": "blabla"
+        }, 
+        "#b1ade5": {
+            "name": "blades"
+        }, 
+        "#b1eb32": {
+            "name": "bieber"
+        }, 
+        "#b21ef5": {
+            "name": "briefs"
+        }, 
+        "#b2ea57": {
+            "name": "breast"
+        }, 
+        "#b33": {
+            "name": "bee"
+        }, 
+        "#b33f3d": {
+            "name": "beefed"
+        }, 
+        "#b342d5": {
+            "name": "beards"
+        }, 
+        "#b37732": {
+            "name": "better"
+        }, 
+        "#b3a575": {
+            "name": "beasts"
+        }, 
+        "#b3f023": {
+            "name": "before"
+        }, 
+        "#b451c5": {
+            "name": "basics"
+        }, 
+        "#b455e5": {
+            "name": "basses"
+        }, 
+        "#b47": {
+            "name": "bat"
+        }, 
+        "#b4d": {
+            "name": "bad"
+        }, 
+        "#b4d455": {
+            "name": "badass"
+        }, 
+        "#ba0bab": {
+            "name": "baobab"
+        }, 
+        "#ba11ad": {
+            "name": "ballad"
+        }, 
+        "#ba11e2": {
+            "name": "baller"
+        }, 
+        "#ba2": {
+            "name": "bar"
+        }, 
+        "#ba2be5": {
+            "name": "barbes"
+        }, 
+        "#ba51c5": {
+            "name": "basics"
+        }, 
+        "#ba5a17": {
+            "name": "basalt"
+        }, 
+        "#ba6315": {
+            "name": "bagels"
+        }, 
+        "#ba6e15": {
+            "name": "bagels"
+        }, 
+        "#ba7": {
+            "name": "bat"
+        }, 
+        "#ba771e": {
+            "name": "battle"
+        }, 
+        "#babe15": {
+            "name": "babels"
+        }, 
+        "#bad": {
+            "name": "bad"
+        }, 
+        "#bad6e5": {
+            "name": "badges"
+        }, 
+        "#bada55": {
+            "name": "badass"
+        }, 
+        "#be77e2": {
+            "name": "better"
+        }, 
+        "#bea575": {
+            "name": "beasts"
+        }, 
+        "#bea91e": {
+            "name": "beagle"
+        }, 
+        "#beb01d": {
+            "name": "bebold"
+        }, 
+        "#bef02e": {
+            "name": "before"
+        }, 
+        "#c00c00": {
+            "name": "coocoo"
+        }, 
+        "#c01025": {
+            "name": "colors"
+        }, 
+        "#c0b2a5": {
+            "name": "cobras"
+        }, 
+        "#c0bb1e": {
+            "name": "cobble"
+        }, 
+        "#c0d3c5": {
+            "name": "codecs"
+        }, 
+        "#c0ff33": {
+            "name": "coffee"
+        }, 
+        "#c0ffee": {
+            "name": "coffee"
+        }, 
+        "#c105ed": {
+            "name": "closed"
+        }, 
+        "#c12c1e": {
+            "name": "circle"
+        }, 
+        "#c1a": {
+            "name": "cia"
+        }, 
+        "#c23a73": {
+            "name": "create"
+        }, 
+        "#c2ea7e": {
+            "name": "create"
+        }, 
+        "#c2ed17": {
+            "name": "credit"
+        }, 
+        "#c4113d": {
+            "name": "called"
+        }, 
+        "#c42207": {
+            "name": "carrot"
+        }, 
+        "#c47": {
+            "name": "cat"
+        }, 
+        "#c4dd1e": {
+            "name": "caddie"
+        }, 
+        "#c55": {
+            "name": "css"
+        }, 
+        "#ca2": {
+            "name": "car"
+        }, 
+        "#ca2207": {
+            "name": "carrot"
+        }, 
+        "#cab": {
+            "name": "cab"
+        }, 
+        "#cabb1e": {
+            "name": "cabbie"
+        }, 
+        "#cadd1e": {
+            "name": "caddie"
+        }, 
+        "#d00d1e": {
+            "name": "doodle"
+        }, 
+        "#d05a6e": {
+            "name": "dosage"
+        }, 
+        "#d0bed0": {
+            "name": "dobedo"
+        }, 
+        "#d0c702": {
+            "name": "doctor"
+        }, 
+        "#d0d6e2": {
+            "name": "dodger"
+        }, 
+        "#d12": {
+            "name": "dir"
+        }, 
+        "#d13": {
+            "name": "die"
+        }, 
+        "#d1ab10": {
+            "name": "diablo"
+        }, 
+        "#d1e": {
+            "name": "die"
+        }, 
+        "#d1e5e1": {
+            "name": "diesel"
+        }, 
+        "#d20632": {
+            "name": "droger"
+        }, 
+        "#d206e2": {
+            "name": "droger"
+        }, 
+        "#d24f75": {
+            "name": "drafts"
+        }, 
+        "#d31373": {
+            "name": "delete"
+        }, 
+        "#d31e7e": {
+            "name": "delete"
+        }, 
+        "#d3c0d3": {
+            "name": "decode"
+        }, 
+        "#d3f3c8": {
+            "name": "defecate"
+        }, 
+        "#d4d": {
+            "name": "dad"
+        }, 
+        "#dad": {
+            "name": "dad"
+        }, 
+        "#de1e7e": {
+            "name": "delete"
+        }, 
+        "#deba5e": {
+            "name": "debase"
+        }, 
+        "#decade": {
+            "name": "decade"
+        }, 
+        "#e2a5e2": {
+            "name": "eraser"
+        }, 
+        "#ea5732": {
+            "name": "easter"
+        }, 
+        "#ea6135": {
+            "name": "eagles"
+        }, 
+        "#eb01a5": {
+            "name": "ebolas"
+        }, 
+        "#ed1702": {
+            "name": "editor"
+        }, 
+        "#effec7": {
+            "name": "effect"
+        }, 
+        "#f00": {
+            "name": "foo"
+        }, 
+        "#f001ed": {
+            "name": "fooled"
+        }, 
+        "#f00ba2": {
+            "name": "foobar"
+        }, 
+        "#f02637": {
+            "name": "forget"
+        }, 
+        "#f026e7": {
+            "name": "forget"
+        }, 
+        "#f02b1d": {
+            "name": "forbid"
+        }, 
+        "#f02c35": {
+            "name": "forces"
+        }, 
+        "#f02ce5": {
+            "name": "forces"
+        }, 
+        "#f06": {
+            "name": "fog"
+        }, 
+        "#f10a75": {
+            "name": "floats"
+        }, 
+        "#f111e5": {
+            "name": "filles"
+        }, 
+        "#f12575": {
+            "name": "firsts"
+        }, 
+        "#f157ed": {
+            "name": "fisted"
+        }, 
+        "#f17": {
+            "name": "fit"
+        }, 
+        "#f1e1d5": {
+            "name": "fields"
+        }, 
+        "#f1e57a": {
+            "name": "fiesta"
+        }, 
+        "#f215c0": {
+            "name": "frisco"
+        }, 
+        "#f47": {
+            "name": "fat"
+        }, 
+        "#f4c4d3": {
+            "name": "facade"
+        }, 
+        "#fa113d": {
+            "name": "failed"
+        }, 
+        "#fa11ed": {
+            "name": "failed"
+        }, 
+        "#fa2732": {
+            "name": "farter"
+        }, 
+        "#fa5732": {
+            "name": "faster"
+        }, 
+        "#fa57e2": {
+            "name": "faster"
+        }, 
+        "#fa6607": {
+            "name": "faggot"
+        }, 
+        "#fa7a55": {
+            "name": "fatass"
+        }, 
+        "#fa7ca7": {
+            "name": "fatcat"
+        }, 
+        "#fab135": {
+            "name": "fables"
+        }, 
+        "#facade": {
+            "name": "facade"
+        }, 
+        "#fb1": {
+            "name": "fbi"
+        }, 
+        "#feca1e": {
+            "name": "fecale"
+        }, 
+        "#fed024": {
+            "name": "fedora"
+        }
+    }, 
+    "source": "BADA55"
+}
